@@ -1,0 +1,4473 @@
+year,state,yield_bu_acre
+2000,Alabama,65.0
+2000,Alabama,65.0
+2000,Alabama,68.0
+2000,Alabama,70.0
+2000,Alabama,70.0
+2001,Alabama,107.0
+2001,Alabama,110.0
+2001,Alabama,114.0
+2001,Alabama,114.0
+2001,Alabama,110.0
+2002,Alabama,88.0
+2002,Alabama,84.0
+2002,Alabama,89.0
+2002,Alabama,87.0
+2002,Alabama,84.0
+2003,Alabama,122.0
+2003,Alabama,104.0
+2003,Alabama,115.0
+2003,Alabama,112.0
+2003,Alabama,112.0
+2004,Alabama,123.0
+2004,Alabama,120.0
+2004,Alabama,123.0
+2004,Alabama,120.0
+2004,Alabama,120.0
+2005,Alabama,119.0
+2005,Alabama,120.0
+2005,Alabama,112.0
+2005,Alabama,115.0
+2005,Alabama,118.0
+2006,Alabama,72.0
+2006,Alabama,55.0
+2006,Alabama,60.0
+2006,Alabama,60.0
+2006,Alabama,60.0
+2007,Alabama,78.0
+2007,Alabama,65.0
+2007,Alabama,73.0
+2007,Alabama,73.0
+2007,Alabama,65.0
+2008,Alabama,104.0
+2008,Alabama,95.0
+2008,Alabama,92.0
+2008,Alabama,92.0
+2008,Alabama,92.0
+2009,Alabama,108.0
+2009,Alabama,106.0
+2009,Alabama,108.0
+2009,Alabama,108.0
+2009,Alabama,108.0
+2010,Alabama,115.0
+2010,Alabama,115.0
+2010,Alabama,120.0
+2010,Alabama,120.0
+2010,Alabama,120.0
+2011,Alabama,114.0
+2011,Alabama,100.0
+2011,Alabama,107.0
+2011,Alabama,107.0
+2011,Alabama,105.0
+2012,Alabama,98.0
+2012,Alabama,85.0
+2012,Alabama,105.0
+2012,Alabama,100.0
+2012,Alabama,100.0
+2013,Alabama,147.0
+2013,Alabama,145.0
+2013,Alabama,150.0
+2013,Alabama,145.0
+2014,Alabama,159.0
+2014,Alabama,149.0
+2014,Alabama,156.0
+2014,Alabama,155.0
+2014,Alabama,149.0
+2015,Alabama,147.0
+2015,Alabama,138.0
+2015,Alabama,140.0
+2015,Alabama,139.0
+2015,Alabama,133.0
+2016,Alabama,120.0
+2016,Alabama,130.0
+2016,Alabama,122.0
+2016,Alabama,124.0
+2016,Alabama,124.0
+2017,Alabama,167.0
+2017,Alabama,165.0
+2017,Alabama,165.0
+2017,Alabama,170.0
+2017,Alabama,167.0
+2018,Alabama,156.0
+2018,Alabama,170.0
+2018,Alabama,176.0
+2018,Alabama,176.0
+2018,Alabama,173.0
+2019,Alabama,147.0
+2019,Alabama,161.0
+2019,Alabama,156.0
+2019,Alabama,151.0
+2019,Alabama,161.0
+2020,Alabama,158.0
+2020,Alabama,165.0
+2020,Alabama,166.0
+2020,Alabama,166.0
+2020,Alabama,163.0
+2021,Alabama,163.0
+2021,Alabama,165.0
+2021,Alabama,162.0
+2021,Alabama,162.0
+2021,Alabama,166.0
+2022,Alabama,118.0
+2022,Alabama,134.0
+2022,Alabama,124.0
+2022,Alabama,129.0
+2022,Alabama,122.0
+2023,Alabama,164.0
+2023,Alabama,159.0
+2023,Alabama,168.0
+2023,Alabama,167.0
+2023,Alabama,166.0
+2024,Alabama,112.0
+2024,Alabama,117.0
+2024,Alabama,100.0
+2024,Alabama,100.0
+2024,Alabama,108.0
+2025,Alabama,152.0
+2025,Alabama,157.0
+2025,Alabama,157.0
+2025,Alabama,166.0
+2000,Arizona,196.0
+2001,Arizona,208.0
+2002,Arizona,185.0
+2003,Arizona,190.0
+2004,Arizona,180.0
+2005,Arizona,195.0
+2006,Arizona,170.0
+2007,Arizona,185.0
+2008,Arizona,165.0
+2009,Arizona,175.0
+2010,Arizona,210.0
+2011,Arizona,178.0
+2012,Arizona,195.0
+2013,Arizona,177.0
+2014,Arizona,210.0
+2015,Arizona,210.0
+2016,Arizona,215.0
+2017,Arizona,195.0
+2018,Arizona,220.0
+2019,Arizona,231.0
+2020,Arizona,202.0
+2021,Arizona,181.0
+2022,Arizona,220.0
+2023,Arizona,206.0
+2024,Arizona,225.0
+2025,Arizona,198.0
+2000,Arkansas,130.0
+2000,Arkansas,125.0
+2000,Arkansas,125.0
+2000,Arkansas,125.0
+2000,Arkansas,120.0
+2001,Arkansas,145.0
+2001,Arkansas,133.0
+2001,Arkansas,145.0
+2001,Arkansas,145.0
+2001,Arkansas,145.0
+2002,Arkansas,134.0
+2002,Arkansas,135.0
+2002,Arkansas,140.0
+2002,Arkansas,140.0
+2002,Arkansas,140.0
+2003,Arkansas,140.0
+2003,Arkansas,135.0
+2003,Arkansas,140.0
+2003,Arkansas,140.0
+2003,Arkansas,140.0
+2004,Arkansas,140.0
+2004,Arkansas,140.0
+2004,Arkansas,140.0
+2004,Arkansas,140.0
+2004,Arkansas,140.0
+2005,Arkansas,131.0
+2005,Arkansas,134.0
+2005,Arkansas,128.0
+2005,Arkansas,128.0
+2005,Arkansas,125.0
+2006,Arkansas,146.0
+2006,Arkansas,128.0
+2006,Arkansas,145.0
+2006,Arkansas,135.0
+2006,Arkansas,134.0
+2007,Arkansas,169.0
+2007,Arkansas,153.0
+2007,Arkansas,160.0
+2007,Arkansas,160.0
+2007,Arkansas,155.0
+2008,Arkansas,152.0
+2008,Arkansas,165.0
+2008,Arkansas,157.0
+2008,Arkansas,160.0
+2008,Arkansas,165.0
+2009,Arkansas,148.0
+2009,Arkansas,155.0
+2009,Arkansas,152.0
+2009,Arkansas,153.0
+2009,Arkansas,153.0
+2010,Arkansas,150.0
+2010,Arkansas,157.0
+2010,Arkansas,150.0
+2010,Arkansas,150.0
+2010,Arkansas,152.0
+2011,Arkansas,141.0
+2011,Arkansas,150.0
+2011,Arkansas,140.0
+2011,Arkansas,142.0
+2011,Arkansas,146.0
+2012,Arkansas,178.0
+2012,Arkansas,160.0
+2012,Arkansas,177.0
+2012,Arkansas,177.0
+2012,Arkansas,175.0
+2013,Arkansas,186.0
+2013,Arkansas,170.0
+2013,Arkansas,182.0
+2013,Arkansas,175.0
+2014,Arkansas,187.0
+2014,Arkansas,180.0
+2014,Arkansas,190.0
+2014,Arkansas,188.0
+2014,Arkansas,184.0
+2015,Arkansas,181.0
+2015,Arkansas,195.0
+2015,Arkansas,186.0
+2015,Arkansas,184.0
+2015,Arkansas,188.0
+2016,Arkansas,171.0
+2016,Arkansas,189.0
+2016,Arkansas,178.0
+2016,Arkansas,178.0
+2016,Arkansas,184.0
+2017,Arkansas,183.0
+2017,Arkansas,182.0
+2017,Arkansas,179.0
+2017,Arkansas,179.0
+2017,Arkansas,182.0
+2018,Arkansas,181.0
+2018,Arkansas,182.0
+2018,Arkansas,181.0
+2018,Arkansas,179.0
+2018,Arkansas,182.0
+2019,Arkansas,175.0
+2019,Arkansas,180.0
+2019,Arkansas,175.0
+2019,Arkansas,175.0
+2019,Arkansas,177.0
+2020,Arkansas,184.0
+2020,Arkansas,181.0
+2020,Arkansas,181.0
+2020,Arkansas,183.0
+2020,Arkansas,181.0
+2021,Arkansas,184.0
+2021,Arkansas,178.0
+2021,Arkansas,183.0
+2021,Arkansas,184.0
+2021,Arkansas,182.0
+2022,Arkansas,173.0
+2022,Arkansas,178.0
+2022,Arkansas,176.0
+2022,Arkansas,176.0
+2022,Arkansas,176.0
+2023,Arkansas,183.0
+2023,Arkansas,180.0
+2023,Arkansas,180.0
+2023,Arkansas,180.0
+2023,Arkansas,180.0
+2024,Arkansas,187.0
+2024,Arkansas,186.0
+2024,Arkansas,186.0
+2024,Arkansas,186.0
+2024,Arkansas,186.0
+2025,Arkansas,182.0
+2025,Arkansas,182.0
+2025,Arkansas,179.0
+2025,Arkansas,178.0
+2000,California,170.0
+2000,California,170.0
+2000,California,170.0
+2000,California,170.0
+2000,California,170.0
+2001,California,170.0
+2001,California,175.0
+2001,California,170.0
+2001,California,170.0
+2001,California,175.0
+2002,California,170.0
+2002,California,175.0
+2002,California,175.0
+2002,California,175.0
+2002,California,175.0
+2003,California,160.0
+2003,California,170.0
+2003,California,170.0
+2003,California,170.0
+2003,California,170.0
+2004,California,175.0
+2004,California,160.0
+2004,California,165.0
+2004,California,165.0
+2004,California,160.0
+2005,California,172.0
+2005,California,160.0
+2005,California,155.0
+2005,California,155.0
+2005,California,155.0
+2006,California,165.0
+2006,California,175.0
+2006,California,175.0
+2006,California,175.0
+2006,California,175.0
+2007,California,182.0
+2007,California,170.0
+2007,California,175.0
+2007,California,175.0
+2007,California,175.0
+2008,California,195.0
+2008,California,175.0
+2008,California,180.0
+2008,California,180.0
+2008,California,175.0
+2009,California,180.0
+2009,California,180.0
+2009,California,180.0
+2009,California,180.0
+2009,California,180.0
+2010,California,192.0
+2010,California,195.0
+2010,California,195.0
+2010,California,195.0
+2010,California,195.0
+2011,California,181.0
+2011,California,190.0
+2011,California,190.0
+2011,California,185.0
+2011,California,185.0
+2012,California,180.0
+2012,California,190.0
+2012,California,190.0
+2012,California,190.0
+2012,California,190.0
+2013,California,191.0
+2013,California,190.0
+2013,California,190.0
+2013,California,190.0
+2014,California,165.0
+2014,California,170.0
+2014,California,165.0
+2014,California,160.0
+2014,California,175.0
+2015,California,157.0
+2015,California,180.0
+2015,California,190.0
+2015,California,185.0
+2015,California,185.0
+2016,California,185.0
+2016,California,185.0
+2016,California,180.0
+2016,California,180.0
+2016,California,185.0
+2017,California,167.0
+2017,California,162.0
+2017,California,184.0
+2017,California,184.0
+2017,California,178.0
+2018,California,173.0
+2018,California,182.0
+2018,California,183.0
+2018,California,178.0
+2018,California,175.0
+2019,California,168.0
+2019,California,166.0
+2019,California,160.0
+2019,California,165.0
+2019,California,161.0
+2020,California,187.0
+2020,California,164.0
+2020,California,155.0
+2020,California,155.0
+2020,California,160.0
+2021,California,188.0
+2021,California,200.0
+2021,California,195.0
+2021,California,195.0
+2021,California,195.0
+2022,California,177.0
+2022,California,220.0
+2022,California,200.0
+2022,California,200.0
+2022,California,200.0
+2023,California,178.0
+2023,California,172.0
+2023,California,174.0
+2023,California,174.0
+2023,California,178.0
+2024,California,182.0
+2025,California,173.0
+2000,Colorado,126.0
+2000,Colorado,135.0
+2000,Colorado,135.0
+2000,Colorado,135.0
+2000,Colorado,135.0
+2001,Colorado,140.0
+2001,Colorado,133.0
+2001,Colorado,138.0
+2001,Colorado,138.0
+2001,Colorado,133.0
+2002,Colorado,150.0
+2002,Colorado,143.0
+2002,Colorado,146.0
+2002,Colorado,143.0
+2002,Colorado,143.0
+2003,Colorado,135.0
+2003,Colorado,143.0
+2003,Colorado,148.0
+2003,Colorado,148.0
+2003,Colorado,147.0
+2004,Colorado,135.0
+2004,Colorado,126.0
+2004,Colorado,128.0
+2004,Colorado,132.0
+2004,Colorado,132.0
+2005,Colorado,148.0
+2005,Colorado,137.0
+2005,Colorado,135.0
+2005,Colorado,135.0
+2005,Colorado,130.0
+2006,Colorado,156.0
+2006,Colorado,154.0
+2006,Colorado,150.0
+2006,Colorado,150.0
+2006,Colorado,152.0
+2007,Colorado,140.0
+2007,Colorado,150.0
+2007,Colorado,150.0
+2007,Colorado,150.0
+2007,Colorado,150.0
+2008,Colorado,137.0
+2008,Colorado,150.0
+2008,Colorado,140.0
+2008,Colorado,140.0
+2008,Colorado,145.0
+2009,Colorado,153.0
+2009,Colorado,140.0
+2009,Colorado,145.0
+2009,Colorado,140.0
+2009,Colorado,138.0
+2010,Colorado,151.0
+2010,Colorado,140.0
+2010,Colorado,144.0
+2010,Colorado,144.0
+2010,Colorado,144.0
+2011,Colorado,133.0
+2011,Colorado,130.0
+2011,Colorado,120.0
+2011,Colorado,127.0
+2011,Colorado,127.0
+2012,Colorado,133.0
+2012,Colorado,135.0
+2012,Colorado,138.0
+2012,Colorado,138.0
+2012,Colorado,135.0
+2013,Colorado,131.0
+2013,Colorado,145.0
+2013,Colorado,138.0
+2013,Colorado,143.0
+2014,Colorado,146.0
+2014,Colorado,144.0
+2014,Colorado,146.0
+2014,Colorado,144.0
+2014,Colorado,144.0
+2015,Colorado,142.0
+2015,Colorado,150.0
+2015,Colorado,158.0
+2015,Colorado,158.0
+2015,Colorado,152.0
+2016,Colorado,137.0
+2016,Colorado,140.0
+2016,Colorado,142.0
+2016,Colorado,138.0
+2016,Colorado,140.0
+2017,Colorado,143.0
+2017,Colorado,145.0
+2017,Colorado,148.0
+2017,Colorado,145.0
+2017,Colorado,145.0
+2018,Colorado,129.0
+2018,Colorado,133.0
+2018,Colorado,127.0
+2018,Colorado,127.0
+2018,Colorado,130.0
+2019,Colorado,123.0
+2019,Colorado,150.0
+2019,Colorado,140.0
+2019,Colorado,144.0
+2019,Colorado,148.0
+2020,Colorado,116.0
+2020,Colorado,117.0
+2020,Colorado,122.0
+2020,Colorado,125.0
+2020,Colorado,117.0
+2021,Colorado,129.0
+2021,Colorado,130.0
+2021,Colorado,136.0
+2021,Colorado,134.0
+2021,Colorado,132.0
+2022,Colorado,121.0
+2022,Colorado,118.0
+2022,Colorado,124.0
+2022,Colorado,125.0
+2022,Colorado,123.0
+2023,Colorado,122.0
+2023,Colorado,130.0
+2023,Colorado,124.0
+2023,Colorado,128.0
+2023,Colorado,130.0
+2024,Colorado,116.0
+2024,Colorado,128.0
+2024,Colorado,118.0
+2024,Colorado,126.0
+2024,Colorado,123.0
+2025,Colorado,133.0
+2025,Colorado,118.0
+2025,Colorado,130.0
+2025,Colorado,126.0
+2000,Delaware,162.0
+2000,Delaware,155.0
+2000,Delaware,165.0
+2000,Delaware,165.0
+2000,Delaware,160.0
+2001,Delaware,146.0
+2001,Delaware,142.0
+2001,Delaware,144.0
+2001,Delaware,144.0
+2001,Delaware,142.0
+2002,Delaware,84.0
+2002,Delaware,85.0
+2002,Delaware,81.0
+2002,Delaware,81.0
+2002,Delaware,81.0
+2003,Delaware,123.0
+2003,Delaware,138.0
+2003,Delaware,131.0
+2003,Delaware,138.0
+2003,Delaware,138.0
+2004,Delaware,152.0
+2004,Delaware,126.0
+2004,Delaware,144.0
+2004,Delaware,144.0
+2004,Delaware,128.0
+2005,Delaware,143.0
+2005,Delaware,137.0
+2005,Delaware,135.0
+2005,Delaware,137.0
+2005,Delaware,137.0
+2006,Delaware,145.0
+2006,Delaware,145.0
+2006,Delaware,150.0
+2006,Delaware,145.0
+2006,Delaware,145.0
+2007,Delaware,99.0
+2007,Delaware,80.0
+2007,Delaware,90.0
+2007,Delaware,85.0
+2007,Delaware,80.0
+2008,Delaware,125.0
+2008,Delaware,125.0
+2008,Delaware,122.0
+2008,Delaware,124.0
+2008,Delaware,120.0
+2009,Delaware,145.0
+2009,Delaware,130.0
+2009,Delaware,145.0
+2009,Delaware,145.0
+2009,Delaware,145.0
+2010,Delaware,114.0
+2010,Delaware,115.0
+2010,Delaware,120.0
+2010,Delaware,120.0
+2010,Delaware,115.0
+2011,Delaware,130.0
+2011,Delaware,125.0
+2011,Delaware,127.0
+2011,Delaware,125.0
+2011,Delaware,125.0
+2012,Delaware,135.0
+2012,Delaware,105.0
+2012,Delaware,120.0
+2012,Delaware,115.0
+2012,Delaware,115.0
+2013,Delaware,166.0
+2013,Delaware,165.0
+2013,Delaware,160.0
+2013,Delaware,160.0
+2014,Delaware,200.0
+2014,Delaware,160.0
+2014,Delaware,190.0
+2014,Delaware,175.0
+2014,Delaware,170.0
+2015,Delaware,192.0
+2015,Delaware,193.0
+2015,Delaware,192.0
+2015,Delaware,182.0
+2015,Delaware,180.0
+2016,Delaware,170.0
+2016,Delaware,193.0
+2016,Delaware,170.0
+2016,Delaware,172.0
+2016,Delaware,187.0
+2017,Delaware,189.0
+2017,Delaware,190.0
+2017,Delaware,186.0
+2017,Delaware,190.0
+2017,Delaware,200.0
+2018,Delaware,145.0
+2018,Delaware,186.0
+2018,Delaware,156.0
+2018,Delaware,164.0
+2018,Delaware,175.0
+2019,Delaware,161.0
+2019,Delaware,165.0
+2019,Delaware,148.0
+2019,Delaware,150.0
+2019,Delaware,160.0
+2020,Delaware,160.0
+2020,Delaware,170.0
+2020,Delaware,181.0
+2020,Delaware,181.0
+2020,Delaware,170.0
+2021,Delaware,184.0
+2021,Delaware,160.0
+2021,Delaware,175.0
+2021,Delaware,170.0
+2021,Delaware,163.0
+2022,Delaware,170.0
+2022,Delaware,172.0
+2022,Delaware,165.0
+2022,Delaware,170.0
+2022,Delaware,165.0
+2023,Delaware,189.0
+2023,Delaware,193.0
+2023,Delaware,186.0
+2023,Delaware,186.0
+2023,Delaware,184.0
+2024,Delaware,171.0
+2024,Delaware,153.0
+2024,Delaware,155.0
+2024,Delaware,160.0
+2024,Delaware,168.0
+2025,Delaware,191.0
+2025,Delaware,178.0
+2025,Delaware,162.0
+2025,Delaware,181.0
+2000,Florida,75.0
+2001,Florida,87.0
+2002,Florida,96.0
+2003,Florida,82.0
+2004,Florida,90.0
+2005,Florida,94.0
+2006,Florida,82.0
+2007,Florida,90.0
+2008,Florida,110.0
+2009,Florida,97.0
+2010,Florida,109.0
+2011,Florida,104.0
+2012,Florida,115.0
+2013,Florida,133.0
+2014,Florida,135.0
+2015,Florida,141.0
+2016,Florida,145.0
+2017,Florida,161.0
+2018,Florida,157.0
+2019,Florida,161.0
+2020,Florida,138.0
+2021,Florida,176.0
+2022,Florida,164.0
+2023,Florida,158.0
+2024,Florida,141.0
+2025,Florida,155.0
+2000,Georgia,107.0
+2000,Georgia,100.0
+2000,Georgia,103.0
+2000,Georgia,100.0
+2000,Georgia,100.0
+2001,Georgia,134.0
+2001,Georgia,120.0
+2001,Georgia,123.0
+2001,Georgia,126.0
+2001,Georgia,120.0
+2002,Georgia,110.0
+2002,Georgia,130.0
+2002,Georgia,125.0
+2002,Georgia,125.0
+2002,Georgia,130.0
+2003,Georgia,126.0
+2003,Georgia,140.0
+2003,Georgia,135.0
+2003,Georgia,135.0
+2003,Georgia,135.0
+2004,Georgia,128.0
+2004,Georgia,125.0
+2004,Georgia,130.0
+2004,Georgia,130.0
+2004,Georgia,130.0
+2005,Georgia,128.0
+2005,Georgia,129.0
+2005,Georgia,127.0
+2005,Georgia,127.0
+2005,Georgia,125.0
+2006,Georgia,110.0
+2006,Georgia,102.0
+2006,Georgia,114.0
+2006,Georgia,109.0
+2006,Georgia,104.0
+2007,Georgia,127.0
+2007,Georgia,115.0
+2007,Georgia,118.0
+2007,Georgia,118.0
+2007,Georgia,120.0
+2008,Georgia,140.0
+2008,Georgia,140.0
+2008,Georgia,125.0
+2008,Georgia,130.0
+2008,Georgia,135.0
+2009,Georgia,140.0
+2009,Georgia,148.0
+2009,Georgia,140.0
+2009,Georgia,140.0
+2009,Georgia,143.0
+2010,Georgia,146.0
+2010,Georgia,138.0
+2010,Georgia,140.0
+2010,Georgia,140.0
+2010,Georgia,142.0
+2011,Georgia,159.0
+2011,Georgia,148.0
+2011,Georgia,152.0
+2011,Georgia,152.0
+2011,Georgia,147.0
+2012,Georgia,180.0
+2012,Georgia,175.0
+2012,Georgia,190.0
+2012,Georgia,190.0
+2012,Georgia,185.0
+2013,Georgia,175.0
+2013,Georgia,181.0
+2013,Georgia,183.0
+2013,Georgia,183.0
+2014,Georgia,170.0
+2014,Georgia,162.0
+2014,Georgia,170.0
+2014,Georgia,169.0
+2014,Georgia,167.0
+2015,Georgia,171.0
+2015,Georgia,180.0
+2015,Georgia,181.0
+2015,Georgia,184.0
+2015,Georgia,184.0
+2016,Georgia,165.0
+2016,Georgia,178.0
+2016,Georgia,175.0
+2016,Georgia,178.0
+2016,Georgia,175.0
+2017,Georgia,176.0
+2017,Georgia,178.0
+2017,Georgia,179.0
+2017,Georgia,184.0
+2017,Georgia,182.0
+2018,Georgia,176.0
+2018,Georgia,173.0
+2018,Georgia,169.0
+2018,Georgia,170.0
+2018,Georgia,170.0
+2019,Georgia,160.0
+2019,Georgia,170.0
+2019,Georgia,168.0
+2019,Georgia,168.0
+2019,Georgia,166.0
+2020,Georgia,180.0
+2020,Georgia,181.0
+2020,Georgia,182.0
+2020,Georgia,182.0
+2020,Georgia,181.0
+2021,Georgia,182.0
+2021,Georgia,170.0
+2021,Georgia,180.0
+2021,Georgia,176.0
+2021,Georgia,172.0
+2022,Georgia,175.0
+2022,Georgia,166.0
+2022,Georgia,168.0
+2022,Georgia,171.0
+2022,Georgia,171.0
+2023,Georgia,174.0
+2023,Georgia,174.0
+2023,Georgia,183.0
+2023,Georgia,177.0
+2023,Georgia,177.0
+2024,Georgia,163.0
+2024,Georgia,149.0
+2024,Georgia,142.0
+2024,Georgia,149.0
+2024,Georgia,146.0
+2025,Georgia,187.0
+2025,Georgia,179.0
+2025,Georgia,182.0
+2025,Georgia,182.0
+2000,Idaho,160.0
+2001,Idaho,150.0
+2002,Idaho,155.0
+2003,Idaho,140.0
+2004,Idaho,175.0
+2005,Idaho,170.0
+2006,Idaho,170.0
+2007,Idaho,170.0
+2008,Idaho,170.0
+2009,Idaho,185.0
+2010,Idaho,190.0
+2011,Idaho,189.0
+2012,Idaho,195.0
+2013,Idaho,181.0
+2014,Idaho,200.0
+2015,Idaho,207.0
+2016,Idaho,188.0
+2016,Idaho,210.0
+2016,Idaho,220.0
+2016,Idaho,215.0
+2016,Idaho,210.0
+2017,Idaho,203.0
+2017,Idaho,200.0
+2017,Idaho,210.0
+2017,Idaho,210.0
+2017,Idaho,205.0
+2018,Idaho,213.0
+2018,Idaho,190.0
+2018,Idaho,205.0
+2018,Idaho,202.0
+2018,Idaho,195.0
+2019,Idaho,205.0
+2019,Idaho,210.0
+2019,Idaho,210.0
+2019,Idaho,210.0
+2019,Idaho,200.0
+2020,Idaho,199.0
+2020,Idaho,203.0
+2020,Idaho,205.0
+2020,Idaho,205.0
+2020,Idaho,205.0
+2021,Idaho,210.0
+2021,Idaho,208.0
+2021,Idaho,214.0
+2021,Idaho,214.0
+2021,Idaho,209.0
+2022,Idaho,216.0
+2022,Idaho,210.0
+2022,Idaho,200.0
+2022,Idaho,200.0
+2022,Idaho,200.0
+2023,Idaho,203.0
+2023,Idaho,204.0
+2023,Idaho,215.0
+2023,Idaho,212.0
+2023,Idaho,208.0
+2024,Idaho,206.0
+2024,Idaho,220.0
+2024,Idaho,207.0
+2024,Idaho,215.0
+2024,Idaho,215.0
+2025,Idaho,209.0
+2025,Idaho,222.0
+2025,Idaho,227.0
+2025,Idaho,230.0
+2000,Illinois,151.0
+2000,Illinois,158.0
+2000,Illinois,153.0
+2000,Illinois,155.0
+2000,Illinois,158.0
+2001,Illinois,152.0
+2001,Illinois,146.0
+2001,Illinois,150.0
+2001,Illinois,149.0
+2001,Illinois,146.0
+2002,Illinois,135.0
+2002,Illinois,140.0
+2002,Illinois,138.0
+2002,Illinois,138.0
+2002,Illinois,140.0
+2003,Illinois,164.0
+2003,Illinois,154.0
+2003,Illinois,169.0
+2003,Illinois,169.0
+2003,Illinois,154.0
+2004,Illinois,180.0
+2004,Illinois,168.0
+2004,Illinois,180.0
+2004,Illinois,180.0
+2004,Illinois,170.0
+2005,Illinois,143.0
+2005,Illinois,125.0
+2005,Illinois,145.0
+2005,Illinois,145.0
+2005,Illinois,136.0
+2006,Illinois,163.0
+2006,Illinois,172.0
+2006,Illinois,165.0
+2006,Illinois,171.0
+2006,Illinois,174.0
+2007,Illinois,175.0
+2007,Illinois,178.0
+2007,Illinois,178.0
+2007,Illinois,178.0
+2007,Illinois,180.0
+2008,Illinois,179.0
+2008,Illinois,172.0
+2008,Illinois,179.0
+2008,Illinois,177.0
+2008,Illinois,172.0
+2009,Illinois,174.0
+2009,Illinois,175.0
+2009,Illinois,175.0
+2009,Illinois,179.0
+2009,Illinois,179.0
+2010,Illinois,157.0
+2010,Illinois,180.0
+2010,Illinois,159.0
+2010,Illinois,160.0
+2010,Illinois,174.0
+2011,Illinois,157.0
+2011,Illinois,170.0
+2011,Illinois,156.0
+2011,Illinois,159.0
+2011,Illinois,161.0
+2012,Illinois,105.0
+2012,Illinois,116.0
+2012,Illinois,101.0
+2012,Illinois,98.0
+2012,Illinois,110.0
+2013,Illinois,178.0
+2013,Illinois,165.0
+2013,Illinois,180.0
+2013,Illinois,165.0
+2014,Illinois,200.0
+2014,Illinois,188.0
+2014,Illinois,200.0
+2014,Illinois,200.0
+2014,Illinois,194.0
+2015,Illinois,175.0
+2015,Illinois,172.0
+2015,Illinois,168.0
+2015,Illinois,170.0
+2015,Illinois,173.0
+2016,Illinois,197.0
+2016,Illinois,200.0
+2016,Illinois,202.0
+2016,Illinois,202.0
+2016,Illinois,200.0
+2017,Illinois,201.0
+2017,Illinois,188.0
+2017,Illinois,198.0
+2017,Illinois,192.0
+2017,Illinois,189.0
+2018,Illinois,210.0
+2018,Illinois,207.0
+2018,Illinois,210.0
+2018,Illinois,212.0
+2018,Illinois,214.0
+2019,Illinois,181.0
+2019,Illinois,181.0
+2019,Illinois,179.0
+2019,Illinois,179.0
+2019,Illinois,180.0
+2020,Illinois,191.0
+2020,Illinois,207.0
+2020,Illinois,195.0
+2020,Illinois,200.0
+2020,Illinois,203.0
+2021,Illinois,202.0
+2021,Illinois,214.0
+2021,Illinois,207.0
+2021,Illinois,210.0
+2021,Illinois,214.0
+2022,Illinois,214.0
+2022,Illinois,203.0
+2022,Illinois,215.0
+2022,Illinois,210.0
+2022,Illinois,204.0
+2023,Illinois,206.0
+2023,Illinois,201.0
+2023,Illinois,203.0
+2023,Illinois,200.0
+2023,Illinois,198.0
+2024,Illinois,217.0
+2024,Illinois,225.0
+2024,Illinois,218.0
+2024,Illinois,222.0
+2024,Illinois,222.0
+2025,Illinois,214.0
+2025,Illinois,221.0
+2025,Illinois,221.0
+2025,Illinois,219.0
+2000,Indiana,146.0
+2000,Indiana,155.0
+2000,Indiana,147.0
+2000,Indiana,151.0
+2000,Indiana,155.0
+2001,Indiana,156.0
+2001,Indiana,147.0
+2001,Indiana,160.0
+2001,Indiana,160.0
+2001,Indiana,152.0
+2002,Indiana,121.0
+2002,Indiana,124.0
+2002,Indiana,117.0
+2002,Indiana,117.0
+2002,Indiana,119.0
+2003,Indiana,146.0
+2003,Indiana,144.0
+2003,Indiana,150.0
+2003,Indiana,148.0
+2003,Indiana,145.0
+2004,Indiana,168.0
+2004,Indiana,156.0
+2004,Indiana,169.0
+2004,Indiana,167.0
+2004,Indiana,157.0
+2005,Indiana,154.0
+2005,Indiana,145.0
+2005,Indiana,151.0
+2005,Indiana,149.0
+2005,Indiana,149.0
+2006,Indiana,157.0
+2006,Indiana,167.0
+2006,Indiana,159.0
+2006,Indiana,165.0
+2006,Indiana,167.0
+2007,Indiana,154.0
+2007,Indiana,157.0
+2007,Indiana,158.0
+2007,Indiana,158.0
+2007,Indiana,160.0
+2008,Indiana,160.0
+2008,Indiana,164.0
+2008,Indiana,160.0
+2008,Indiana,160.0
+2008,Indiana,162.0
+2009,Indiana,171.0
+2009,Indiana,163.0
+2009,Indiana,166.0
+2009,Indiana,166.0
+2009,Indiana,163.0
+2010,Indiana,157.0
+2010,Indiana,176.0
+2010,Indiana,160.0
+2010,Indiana,160.0
+2010,Indiana,170.0
+2011,Indiana,146.0
+2011,Indiana,150.0
+2011,Indiana,145.0
+2011,Indiana,145.0
+2011,Indiana,145.0
+2012,Indiana,99.0
+2012,Indiana,100.0
+2012,Indiana,100.0
+2012,Indiana,100.0
+2012,Indiana,100.0
+2013,Indiana,177.0
+2013,Indiana,166.0
+2013,Indiana,174.0
+2013,Indiana,166.0
+2014,Indiana,188.0
+2014,Indiana,179.0
+2014,Indiana,186.0
+2014,Indiana,186.0
+2014,Indiana,184.0
+2015,Indiana,150.0
+2015,Indiana,158.0
+2015,Indiana,156.0
+2015,Indiana,156.0
+2015,Indiana,156.0
+2016,Indiana,173.0
+2016,Indiana,187.0
+2016,Indiana,177.0
+2016,Indiana,177.0
+2016,Indiana,185.0
+2017,Indiana,180.0
+2017,Indiana,173.0
+2017,Indiana,181.0
+2017,Indiana,173.0
+2017,Indiana,171.0
+2018,Indiana,189.0
+2018,Indiana,186.0
+2018,Indiana,194.0
+2018,Indiana,194.0
+2018,Indiana,192.0
+2019,Indiana,169.0
+2019,Indiana,166.0
+2019,Indiana,165.0
+2019,Indiana,162.0
+2019,Indiana,161.0
+2020,Indiana,187.0
+2020,Indiana,188.0
+2020,Indiana,189.0
+2020,Indiana,189.0
+2020,Indiana,186.0
+2021,Indiana,195.0
+2021,Indiana,194.0
+2021,Indiana,189.0
+2021,Indiana,194.0
+2021,Indiana,197.0
+2022,Indiana,190.0
+2022,Indiana,189.0
+2022,Indiana,191.0
+2022,Indiana,187.0
+2022,Indiana,186.0
+2023,Indiana,203.0
+2023,Indiana,195.0
+2023,Indiana,200.0
+2023,Indiana,197.0
+2023,Indiana,194.0
+2024,Indiana,198.0
+2024,Indiana,207.0
+2024,Indiana,209.0
+2024,Indiana,202.0
+2024,Indiana,210.0
+2025,Indiana,204.0
+2025,Indiana,205.0
+2025,Indiana,206.0
+2025,Indiana,205.0
+2000,Iowa,144.0
+2000,Iowa,155.0
+2000,Iowa,146.0
+2000,Iowa,148.0
+2000,Iowa,155.0
+2001,Iowa,146.0
+2001,Iowa,141.0
+2001,Iowa,147.0
+2001,Iowa,141.0
+2001,Iowa,138.0
+2002,Iowa,163.0
+2002,Iowa,146.0
+2002,Iowa,160.0
+2002,Iowa,159.0
+2002,Iowa,149.0
+2003,Iowa,157.0
+2003,Iowa,158.0
+2003,Iowa,159.0
+2003,Iowa,156.0
+2003,Iowa,154.0
+2004,Iowa,181.0
+2004,Iowa,162.0
+2004,Iowa,183.0
+2004,Iowa,180.0
+2004,Iowa,163.0
+2005,Iowa,173.0
+2005,Iowa,164.0
+2005,Iowa,175.0
+2005,Iowa,173.0
+2005,Iowa,169.0
+2006,Iowa,166.0
+2006,Iowa,173.0
+2006,Iowa,163.0
+2006,Iowa,168.0
+2006,Iowa,174.0
+2007,Iowa,171.0
+2007,Iowa,180.0
+2007,Iowa,175.0
+2007,Iowa,180.0
+2007,Iowa,182.0
+2008,Iowa,171.0
+2008,Iowa,171.0
+2008,Iowa,172.0
+2008,Iowa,172.0
+2008,Iowa,168.0
+2009,Iowa,181.0
+2009,Iowa,185.0
+2009,Iowa,183.0
+2009,Iowa,188.0
+2009,Iowa,187.0
+2010,Iowa,165.0
+2010,Iowa,179.0
+2010,Iowa,167.0
+2010,Iowa,169.0
+2010,Iowa,179.0
+2011,Iowa,172.0
+2011,Iowa,177.0
+2011,Iowa,171.0
+2011,Iowa,169.0
+2011,Iowa,167.0
+2012,Iowa,137.0
+2012,Iowa,141.0
+2012,Iowa,139.0
+2012,Iowa,140.0
+2012,Iowa,140.0
+2013,Iowa,164.0
+2013,Iowa,163.0
+2013,Iowa,169.0
+2013,Iowa,162.0
+2014,Iowa,178.0
+2014,Iowa,185.0
+2014,Iowa,183.0
+2014,Iowa,185.0
+2014,Iowa,185.0
+2015,Iowa,192.0
+2015,Iowa,183.0
+2015,Iowa,189.0
+2015,Iowa,183.0
+2015,Iowa,181.0
+2016,Iowa,203.0
+2016,Iowa,197.0
+2016,Iowa,199.0
+2016,Iowa,198.0
+2016,Iowa,196.0
+2017,Iowa,202.0
+2017,Iowa,188.0
+2017,Iowa,197.0
+2017,Iowa,191.0
+2017,Iowa,187.0
+2018,Iowa,196.0
+2018,Iowa,202.0
+2018,Iowa,198.0
+2018,Iowa,204.0
+2018,Iowa,206.0
+2019,Iowa,198.0
+2019,Iowa,191.0
+2019,Iowa,192.0
+2019,Iowa,192.0
+2019,Iowa,191.0
+2020,Iowa,177.0
+2020,Iowa,202.0
+2020,Iowa,184.0
+2020,Iowa,186.0
+2020,Iowa,191.0
+2021,Iowa,204.0
+2021,Iowa,193.0
+2021,Iowa,201.0
+2021,Iowa,201.0
+2021,Iowa,198.0
+2022,Iowa,200.0
+2022,Iowa,205.0
+2022,Iowa,202.0
+2022,Iowa,200.0
+2022,Iowa,200.0
+2023,Iowa,201.0
+2023,Iowa,203.0
+2023,Iowa,200.0
+2023,Iowa,199.0
+2023,Iowa,200.0
+2024,Iowa,211.0
+2024,Iowa,209.0
+2024,Iowa,213.0
+2024,Iowa,214.0
+2024,Iowa,212.0
+2025,Iowa,210.0
+2025,Iowa,222.0
+2025,Iowa,216.0
+2025,Iowa,219.0
+2000,Kansas,130.0
+2000,Kansas,143.0
+2000,Kansas,128.0
+2000,Kansas,128.0
+2000,Kansas,133.0
+2001,Kansas,127.0
+2001,Kansas,127.0
+2001,Kansas,132.0
+2001,Kansas,132.0
+2001,Kansas,127.0
+2002,Kansas,116.0
+2002,Kansas,105.0
+2002,Kansas,110.0
+2002,Kansas,110.0
+2002,Kansas,105.0
+2003,Kansas,120.0
+2003,Kansas,124.0
+2003,Kansas,123.0
+2003,Kansas,123.0
+2003,Kansas,120.0
+2004,Kansas,150.0
+2004,Kansas,145.0
+2004,Kansas,151.0
+2004,Kansas,148.0
+2004,Kansas,145.0
+2005,Kansas,135.0
+2005,Kansas,125.0
+2005,Kansas,130.0
+2005,Kansas,130.0
+2005,Kansas,130.0
+2006,Kansas,115.0
+2006,Kansas,125.0
+2006,Kansas,123.0
+2006,Kansas,123.0
+2006,Kansas,125.0
+2007,Kansas,138.0
+2007,Kansas,132.0
+2007,Kansas,139.0
+2007,Kansas,137.0
+2007,Kansas,135.0
+2008,Kansas,133.0
+2008,Kansas,134.0
+2008,Kansas,137.0
+2008,Kansas,137.0
+2008,Kansas,134.0
+2009,Kansas,155.0
+2009,Kansas,143.0
+2009,Kansas,145.0
+2009,Kansas,145.0
+2009,Kansas,144.0
+2010,Kansas,124.0
+2010,Kansas,143.0
+2010,Kansas,129.0
+2010,Kansas,130.0
+2010,Kansas,138.0
+2011,Kansas,107.0
+2011,Kansas,110.0
+2011,Kansas,100.0
+2011,Kansas,105.0
+2011,Kansas,105.0
+2012,Kansas,95.0
+2012,Kansas,93.0
+2012,Kansas,91.0
+2012,Kansas,91.0
+2012,Kansas,91.0
+2013,Kansas,126.0
+2013,Kansas,116.0
+2013,Kansas,130.0
+2013,Kansas,125.0
+2014,Kansas,149.0
+2014,Kansas,145.0
+2014,Kansas,157.0
+2014,Kansas,160.0
+2014,Kansas,154.0
+2015,Kansas,148.0
+2015,Kansas,152.0
+2015,Kansas,148.0
+2015,Kansas,147.0
+2015,Kansas,148.0
+2016,Kansas,142.0
+2016,Kansas,145.0
+2016,Kansas,147.0
+2016,Kansas,147.0
+2016,Kansas,151.0
+2017,Kansas,132.0
+2017,Kansas,133.0
+2017,Kansas,136.0
+2017,Kansas,134.0
+2017,Kansas,133.0
+2018,Kansas,129.0
+2018,Kansas,129.0
+2018,Kansas,130.0
+2018,Kansas,130.0
+2018,Kansas,131.0
+2019,Kansas,133.0
+2019,Kansas,135.0
+2019,Kansas,133.0
+2019,Kansas,136.0
+2019,Kansas,136.0
+2020,Kansas,134.0
+2020,Kansas,143.0
+2020,Kansas,132.0
+2020,Kansas,137.0
+2020,Kansas,136.0
+2021,Kansas,139.0
+2021,Kansas,138.0
+2021,Kansas,139.0
+2021,Kansas,140.0
+2021,Kansas,138.0
+2022,Kansas,115.0
+2022,Kansas,123.0
+2022,Kansas,115.0
+2022,Kansas,115.0
+2022,Kansas,122.0
+2023,Kansas,119.0
+2023,Kansas,124.0
+2023,Kansas,121.0
+2023,Kansas,122.0
+2023,Kansas,127.0
+2024,Kansas,129.0
+2024,Kansas,128.0
+2024,Kansas,138.0
+2024,Kansas,138.0
+2024,Kansas,131.0
+2025,Kansas,145.0
+2025,Kansas,139.0
+2025,Kansas,141.0
+2025,Kansas,136.0
+2000,Kentucky,130.0
+2000,Kentucky,115.0
+2000,Kentucky,130.0
+2000,Kentucky,130.0
+2000,Kentucky,127.0
+2001,Kentucky,142.0
+2001,Kentucky,126.0
+2001,Kentucky,140.0
+2001,Kentucky,140.0
+2001,Kentucky,130.0
+2002,Kentucky,104.0
+2002,Kentucky,110.0
+2002,Kentucky,101.0
+2002,Kentucky,101.0
+2002,Kentucky,104.0
+2003,Kentucky,137.0
+2003,Kentucky,130.0
+2003,Kentucky,140.0
+2003,Kentucky,140.0
+2003,Kentucky,136.0
+2004,Kentucky,152.0
+2004,Kentucky,142.0
+2004,Kentucky,150.0
+2004,Kentucky,150.0
+2004,Kentucky,142.0
+2005,Kentucky,132.0
+2005,Kentucky,130.0
+2005,Kentucky,131.0
+2005,Kentucky,127.0
+2005,Kentucky,122.0
+2006,Kentucky,146.0
+2006,Kentucky,150.0
+2006,Kentucky,148.0
+2006,Kentucky,148.0
+2006,Kentucky,152.0
+2007,Kentucky,128.0
+2007,Kentucky,120.0
+2007,Kentucky,129.0
+2007,Kentucky,124.0
+2007,Kentucky,120.0
+2008,Kentucky,136.0
+2008,Kentucky,141.0
+2008,Kentucky,133.0
+2008,Kentucky,133.0
+2008,Kentucky,137.0
+2009,Kentucky,165.0
+2009,Kentucky,150.0
+2009,Kentucky,160.0
+2009,Kentucky,157.0
+2009,Kentucky,155.0
+2010,Kentucky,124.0
+2010,Kentucky,138.0
+2010,Kentucky,128.0
+2010,Kentucky,128.0
+2010,Kentucky,135.0
+2011,Kentucky,139.0
+2011,Kentucky,145.0
+2011,Kentucky,139.0
+2011,Kentucky,139.0
+2011,Kentucky,139.0
+2012,Kentucky,68.0
+2012,Kentucky,65.0
+2012,Kentucky,68.0
+2012,Kentucky,68.0
+2012,Kentucky,70.0
+2013,Kentucky,170.0
+2013,Kentucky,154.0
+2013,Kentucky,173.0
+2013,Kentucky,158.0
+2014,Kentucky,158.0
+2014,Kentucky,138.0
+2014,Kentucky,153.0
+2014,Kentucky,153.0
+2014,Kentucky,148.0
+2015,Kentucky,172.0
+2015,Kentucky,170.0
+2015,Kentucky,175.0
+2015,Kentucky,175.0
+2015,Kentucky,172.0
+2016,Kentucky,159.0
+2016,Kentucky,175.0
+2016,Kentucky,159.0
+2016,Kentucky,162.0
+2016,Kentucky,172.0
+2017,Kentucky,178.0
+2017,Kentucky,171.0
+2017,Kentucky,177.0
+2017,Kentucky,174.0
+2017,Kentucky,171.0
+2018,Kentucky,175.0
+2018,Kentucky,175.0
+2018,Kentucky,179.0
+2018,Kentucky,180.0
+2018,Kentucky,177.0
+2019,Kentucky,169.0
+2019,Kentucky,181.0
+2019,Kentucky,177.0
+2019,Kentucky,178.0
+2019,Kentucky,177.0
+2020,Kentucky,184.0
+2020,Kentucky,181.0
+2020,Kentucky,181.0
+2020,Kentucky,181.0
+2020,Kentucky,181.0
+2021,Kentucky,192.0
+2021,Kentucky,183.0
+2021,Kentucky,189.0
+2021,Kentucky,185.0
+2021,Kentucky,185.0
+2022,Kentucky,156.0
+2022,Kentucky,147.0
+2022,Kentucky,153.0
+2022,Kentucky,149.0
+2022,Kentucky,150.0
+2023,Kentucky,187.0
+2023,Kentucky,186.0
+2023,Kentucky,183.0
+2023,Kentucky,183.0
+2023,Kentucky,186.0
+2024,Kentucky,178.0
+2024,Kentucky,187.0
+2024,Kentucky,180.0
+2024,Kentucky,186.0
+2024,Kentucky,187.0
+2025,Kentucky,167.0
+2025,Kentucky,186.0
+2025,Kentucky,164.0
+2025,Kentucky,175.0
+2000,Louisiana,116.0
+2000,Louisiana,110.0
+2000,Louisiana,108.0
+2000,Louisiana,108.0
+2000,Louisiana,108.0
+2001,Louisiana,148.0
+2001,Louisiana,124.0
+2001,Louisiana,142.0
+2001,Louisiana,142.0
+2001,Louisiana,135.0
+2002,Louisiana,121.0
+2002,Louisiana,122.0
+2002,Louisiana,130.0
+2002,Louisiana,130.0
+2002,Louisiana,130.0
+2003,Louisiana,134.0
+2003,Louisiana,125.0
+2003,Louisiana,135.0
+2003,Louisiana,135.0
+2003,Louisiana,140.0
+2004,Louisiana,135.0
+2004,Louisiana,125.0
+2004,Louisiana,135.0
+2004,Louisiana,135.0
+2004,Louisiana,135.0
+2005,Louisiana,136.0
+2005,Louisiana,125.0
+2005,Louisiana,142.0
+2005,Louisiana,140.0
+2005,Louisiana,140.0
+2006,Louisiana,140.0
+2006,Louisiana,130.0
+2006,Louisiana,135.0
+2006,Louisiana,135.0
+2006,Louisiana,131.0
+2007,Louisiana,163.0
+2007,Louisiana,150.0
+2007,Louisiana,170.0
+2007,Louisiana,170.0
+2007,Louisiana,160.0
+2008,Louisiana,144.0
+2008,Louisiana,155.0
+2008,Louisiana,145.0
+2008,Louisiana,145.0
+2008,Louisiana,150.0
+2009,Louisiana,132.0
+2009,Louisiana,134.0
+2009,Louisiana,130.0
+2009,Louisiana,132.0
+2009,Louisiana,134.0
+2010,Louisiana,140.0
+2010,Louisiana,150.0
+2010,Louisiana,150.0
+2010,Louisiana,150.0
+2010,Louisiana,150.0
+2011,Louisiana,135.0
+2011,Louisiana,130.0
+2011,Louisiana,135.0
+2011,Louisiana,135.0
+2011,Louisiana,130.0
+2012,Louisiana,173.0
+2012,Louisiana,165.0
+2012,Louisiana,170.0
+2012,Louisiana,170.0
+2012,Louisiana,170.0
+2013,Louisiana,173.0
+2013,Louisiana,165.0
+2013,Louisiana,180.0
+2013,Louisiana,175.0
+2014,Louisiana,183.0
+2014,Louisiana,180.0
+2014,Louisiana,180.0
+2014,Louisiana,180.0
+2014,Louisiana,180.0
+2015,Louisiana,171.0
+2015,Louisiana,170.0
+2015,Louisiana,170.0
+2015,Louisiana,170.0
+2015,Louisiana,170.0
+2016,Louisiana,165.0
+2016,Louisiana,178.0
+2016,Louisiana,168.0
+2016,Louisiana,168.0
+2016,Louisiana,174.0
+2017,Louisiana,184.0
+2017,Louisiana,192.0
+2017,Louisiana,183.0
+2017,Louisiana,183.0
+2017,Louisiana,185.0
+2018,Louisiana,173.0
+2018,Louisiana,174.0
+2018,Louisiana,170.0
+2018,Louisiana,170.0
+2018,Louisiana,170.0
+2019,Louisiana,165.0
+2019,Louisiana,181.0
+2019,Louisiana,164.0
+2019,Louisiana,166.0
+2019,Louisiana,166.0
+2020,Louisiana,181.0
+2020,Louisiana,180.0
+2020,Louisiana,184.0
+2020,Louisiana,184.0
+2020,Louisiana,180.0
+2021,Louisiana,183.0
+2021,Louisiana,173.0
+2021,Louisiana,181.0
+2021,Louisiana,181.0
+2021,Louisiana,179.0
+2022,Louisiana,170.0
+2022,Louisiana,175.0
+2022,Louisiana,165.0
+2022,Louisiana,165.0
+2022,Louisiana,165.0
+2023,Louisiana,175.0
+2023,Louisiana,169.0
+2023,Louisiana,175.0
+2023,Louisiana,175.0
+2023,Louisiana,175.0
+2024,Louisiana,185.0
+2024,Louisiana,185.0
+2024,Louisiana,189.0
+2024,Louisiana,189.0
+2024,Louisiana,191.0
+2025,Louisiana,193.0
+2025,Louisiana,180.0
+2025,Louisiana,176.0
+2025,Louisiana,182.0
+2000,Maryland,155.0
+2000,Maryland,150.0
+2000,Maryland,155.0
+2000,Maryland,155.0
+2000,Maryland,155.0
+2001,Maryland,136.0
+2001,Maryland,135.0
+2001,Maryland,138.0
+2001,Maryland,138.0
+2001,Maryland,138.0
+2002,Maryland,74.0
+2002,Maryland,87.0
+2002,Maryland,76.0
+2002,Maryland,78.0
+2002,Maryland,78.0
+2003,Maryland,123.0
+2003,Maryland,131.0
+2003,Maryland,131.0
+2003,Maryland,131.0
+2003,Maryland,133.0
+2004,Maryland,153.0
+2004,Maryland,141.0
+2004,Maryland,152.0
+2004,Maryland,152.0
+2004,Maryland,143.0
+2005,Maryland,135.0
+2005,Maryland,135.0
+2005,Maryland,142.0
+2005,Maryland,140.0
+2005,Maryland,135.0
+2006,Maryland,140.0
+2006,Maryland,142.0
+2006,Maryland,140.0
+2006,Maryland,140.0
+2006,Maryland,142.0
+2007,Maryland,101.0
+2007,Maryland,90.0
+2007,Maryland,90.0
+2007,Maryland,85.0
+2007,Maryland,85.0
+2008,Maryland,121.0
+2008,Maryland,130.0
+2008,Maryland,121.0
+2008,Maryland,121.0
+2008,Maryland,126.0
+2009,Maryland,145.0
+2009,Maryland,133.0
+2009,Maryland,145.0
+2009,Maryland,145.0
+2009,Maryland,138.0
+2010,Maryland,106.0
+2010,Maryland,100.0
+2010,Maryland,100.0
+2010,Maryland,95.0
+2010,Maryland,100.0
+2011,Maryland,109.0
+2011,Maryland,104.0
+2011,Maryland,105.0
+2011,Maryland,105.0
+2011,Maryland,104.0
+2012,Maryland,122.0
+2012,Maryland,110.0
+2012,Maryland,115.0
+2012,Maryland,115.0
+2012,Maryland,115.0
+2013,Maryland,158.0
+2013,Maryland,155.0
+2013,Maryland,158.0
+2013,Maryland,155.0
+2014,Maryland,175.0
+2014,Maryland,158.0
+2014,Maryland,170.0
+2014,Maryland,170.0
+2014,Maryland,166.0
+2015,Maryland,164.0
+2015,Maryland,165.0
+2015,Maryland,178.0
+2015,Maryland,181.0
+2015,Maryland,172.0
+2016,Maryland,152.0
+2016,Maryland,170.0
+2016,Maryland,165.0
+2016,Maryland,163.0
+2016,Maryland,170.0
+2017,Maryland,172.0
+2017,Maryland,160.0
+2017,Maryland,174.0
+2017,Maryland,166.0
+2017,Maryland,164.0
+2018,Maryland,146.0
+2018,Maryland,168.0
+2018,Maryland,152.0
+2018,Maryland,162.0
+2018,Maryland,175.0
+2019,Maryland,161.0
+2019,Maryland,170.0
+2019,Maryland,163.0
+2019,Maryland,167.0
+2019,Maryland,165.0
+2020,Maryland,155.0
+2020,Maryland,160.0
+2020,Maryland,153.0
+2020,Maryland,155.0
+2020,Maryland,163.0
+2021,Maryland,175.0
+2021,Maryland,164.0
+2021,Maryland,172.0
+2021,Maryland,166.0
+2021,Maryland,162.0
+2022,Maryland,165.0
+2022,Maryland,172.0
+2022,Maryland,170.0
+2022,Maryland,174.0
+2022,Maryland,172.0
+2023,Maryland,165.0
+2023,Maryland,158.0
+2023,Maryland,171.0
+2023,Maryland,158.0
+2023,Maryland,160.0
+2024,Maryland,143.0
+2024,Maryland,137.0
+2024,Maryland,130.0
+2024,Maryland,133.0
+2024,Maryland,137.0
+2025,Maryland,171.0
+2025,Maryland,173.0
+2025,Maryland,167.0
+2025,Maryland,170.0
+2000,Michigan,124.0
+2000,Michigan,128.0
+2000,Michigan,124.0
+2000,Michigan,128.0
+2000,Michigan,131.0
+2001,Michigan,105.0
+2001,Michigan,111.0
+2001,Michigan,96.0
+2001,Michigan,92.0
+2001,Michigan,92.0
+2002,Michigan,117.0
+2002,Michigan,107.0
+2002,Michigan,117.0
+2002,Michigan,112.0
+2002,Michigan,115.0
+2003,Michigan,128.0
+2003,Michigan,130.0
+2003,Michigan,129.0
+2003,Michigan,129.0
+2003,Michigan,129.0
+2004,Michigan,134.0
+2004,Michigan,124.0
+2004,Michigan,132.0
+2004,Michigan,127.0
+2004,Michigan,122.0
+2005,Michigan,143.0
+2005,Michigan,135.0
+2005,Michigan,141.0
+2005,Michigan,139.0
+2005,Michigan,137.0
+2006,Michigan,147.0
+2006,Michigan,147.0
+2006,Michigan,149.0
+2006,Michigan,149.0
+2006,Michigan,151.0
+2007,Michigan,123.0
+2007,Michigan,111.0
+2007,Michigan,117.0
+2007,Michigan,117.0
+2007,Michigan,113.0
+2008,Michigan,138.0
+2008,Michigan,148.0
+2008,Michigan,137.0
+2008,Michigan,140.0
+2008,Michigan,140.0
+2009,Michigan,148.0
+2009,Michigan,140.0
+2009,Michigan,142.0
+2009,Michigan,144.0
+2009,Michigan,146.0
+2010,Michigan,149.0
+2010,Michigan,156.0
+2010,Michigan,156.0
+2010,Michigan,156.0
+2010,Michigan,154.0
+2011,Michigan,153.0
+2011,Michigan,142.0
+2011,Michigan,148.0
+2011,Michigan,148.0
+2011,Michigan,148.0
+2012,Michigan,132.0
+2012,Michigan,114.0
+2012,Michigan,120.0
+2012,Michigan,118.0
+2012,Michigan,114.0
+2013,Michigan,155.0
+2013,Michigan,158.0
+2013,Michigan,156.0
+2013,Michigan,158.0
+2014,Michigan,161.0
+2014,Michigan,161.0
+2014,Michigan,166.0
+2014,Michigan,167.0
+2014,Michigan,162.0
+2015,Michigan,162.0
+2015,Michigan,165.0
+2015,Michigan,167.0
+2015,Michigan,167.0
+2015,Michigan,164.0
+2016,Michigan,157.0
+2016,Michigan,152.0
+2016,Michigan,155.0
+2016,Michigan,155.0
+2016,Michigan,157.0
+2017,Michigan,159.0
+2017,Michigan,170.0
+2017,Michigan,167.0
+2017,Michigan,168.0
+2017,Michigan,169.0
+2018,Michigan,152.0
+2018,Michigan,158.0
+2018,Michigan,166.0
+2018,Michigan,163.0
+2018,Michigan,165.0
+2019,Michigan,147.0
+2019,Michigan,155.0
+2019,Michigan,151.0
+2019,Michigan,155.0
+2019,Michigan,148.0
+2020,Michigan,153.0
+2020,Michigan,168.0
+2020,Michigan,160.0
+2020,Michigan,167.0
+2020,Michigan,162.0
+2021,Michigan,174.0
+2021,Michigan,169.0
+2021,Michigan,175.0
+2021,Michigan,171.0
+2021,Michigan,174.0
+2022,Michigan,168.0
+2022,Michigan,170.0
+2022,Michigan,164.0
+2022,Michigan,166.0
+2022,Michigan,168.0
+2023,Michigan,168.0
+2023,Michigan,170.0
+2023,Michigan,171.0
+2023,Michigan,170.0
+2023,Michigan,173.0
+2024,Michigan,181.0
+2024,Michigan,177.0
+2024,Michigan,179.0
+2024,Michigan,179.0
+2024,Michigan,182.0
+2025,Michigan,178.0
+2025,Michigan,180.0
+2025,Michigan,178.0
+2025,Michigan,180.0
+2000,Minnesota,145.0
+2000,Minnesota,154.0
+2000,Minnesota,148.0
+2000,Minnesota,152.0
+2000,Minnesota,156.0
+2001,Minnesota,130.0
+2001,Minnesota,131.0
+2001,Minnesota,130.0
+2001,Minnesota,129.0
+2001,Minnesota,128.0
+2002,Minnesota,157.0
+2002,Minnesota,140.0
+2002,Minnesota,156.0
+2002,Minnesota,152.0
+2002,Minnesota,145.0
+2003,Minnesota,146.0
+2003,Minnesota,156.0
+2003,Minnesota,143.0
+2003,Minnesota,143.0
+2003,Minnesota,151.0
+2004,Minnesota,159.0
+2004,Minnesota,151.0
+2004,Minnesota,157.0
+2004,Minnesota,155.0
+2004,Minnesota,147.0
+2005,Minnesota,174.0
+2005,Minnesota,155.0
+2005,Minnesota,171.0
+2005,Minnesota,160.0
+2005,Minnesota,157.0
+2006,Minnesota,161.0
+2006,Minnesota,160.0
+2006,Minnesota,166.0
+2006,Minnesota,166.0
+2006,Minnesota,164.0
+2007,Minnesota,146.0
+2007,Minnesota,156.0
+2007,Minnesota,151.0
+2007,Minnesota,156.0
+2007,Minnesota,158.0
+2008,Minnesota,162.0
+2008,Minnesota,165.0
+2008,Minnesota,168.0
+2008,Minnesota,167.0
+2008,Minnesota,163.0
+2009,Minnesota,174.0
+2009,Minnesota,167.0
+2009,Minnesota,172.0
+2009,Minnesota,170.0
+2009,Minnesota,167.0
+2010,Minnesota,177.0
+2010,Minnesota,178.0
+2010,Minnesota,175.0
+2010,Minnesota,175.0
+2010,Minnesota,177.0
+2011,Minnesota,155.0
+2011,Minnesota,166.0
+2011,Minnesota,160.0
+2011,Minnesota,165.0
+2011,Minnesota,165.0
+2012,Minnesota,165.0
+2012,Minnesota,155.0
+2012,Minnesota,168.0
+2012,Minnesota,168.0
+2012,Minnesota,156.0
+2013,Minnesota,159.0
+2013,Minnesota,166.0
+2013,Minnesota,164.0
+2013,Minnesota,166.0
+2014,Minnesota,156.0
+2014,Minnesota,168.0
+2014,Minnesota,165.0
+2014,Minnesota,170.0
+2014,Minnesota,170.0
+2015,Minnesota,188.0
+2015,Minnesota,184.0
+2015,Minnesota,187.0
+2015,Minnesota,184.0
+2015,Minnesota,183.0
+2016,Minnesota,193.0
+2016,Minnesota,184.0
+2016,Minnesota,190.0
+2016,Minnesota,186.0
+2016,Minnesota,184.0
+2017,Minnesota,194.0
+2017,Minnesota,183.0
+2017,Minnesota,190.0
+2017,Minnesota,184.0
+2017,Minnesota,182.0
+2018,Minnesota,182.0
+2018,Minnesota,191.0
+2018,Minnesota,184.0
+2018,Minnesota,191.0
+2018,Minnesota,191.0
+2019,Minnesota,174.0
+2019,Minnesota,173.0
+2019,Minnesota,170.0
+2019,Minnesota,173.0
+2019,Minnesota,171.0
+2020,Minnesota,191.0
+2020,Minnesota,197.0
+2020,Minnesota,202.0
+2020,Minnesota,202.0
+2020,Minnesota,200.0
+2021,Minnesota,177.0
+2021,Minnesota,166.0
+2021,Minnesota,186.0
+2021,Minnesota,178.0
+2021,Minnesota,174.0
+2022,Minnesota,195.0
+2022,Minnesota,193.0
+2022,Minnesota,191.0
+2022,Minnesota,190.0
+2022,Minnesota,190.0
+2023,Minnesota,185.0
+2023,Minnesota,183.0
+2023,Minnesota,181.0
+2023,Minnesota,179.0
+2023,Minnesota,180.0
+2024,Minnesota,174.0
+2024,Minnesota,185.0
+2024,Minnesota,183.0
+2024,Minnesota,183.0
+2024,Minnesota,183.0
+2025,Minnesota,201.0
+2025,Minnesota,202.0
+2025,Minnesota,193.0
+2025,Minnesota,199.0
+2000,Mississippi,100.0
+2000,Mississippi,103.0
+2000,Mississippi,104.0
+2000,Mississippi,104.0
+2000,Mississippi,103.0
+2001,Mississippi,130.0
+2001,Mississippi,120.0
+2001,Mississippi,130.0
+2001,Mississippi,130.0
+2001,Mississippi,128.0
+2002,Mississippi,120.0
+2002,Mississippi,125.0
+2002,Mississippi,127.0
+2002,Mississippi,125.0
+2002,Mississippi,125.0
+2003,Mississippi,133.0
+2003,Mississippi,130.0
+2003,Mississippi,130.0
+2003,Mississippi,130.0
+2003,Mississippi,130.0
+2004,Mississippi,133.0
+2004,Mississippi,140.0
+2004,Mississippi,136.0
+2004,Mississippi,136.0
+2004,Mississippi,136.0
+2005,Mississippi,126.0
+2005,Mississippi,135.0
+2005,Mississippi,133.0
+2005,Mississippi,133.0
+2005,Mississippi,135.0
+2006,Mississippi,107.0
+2006,Mississippi,100.0
+2006,Mississippi,105.0
+2006,Mississippi,100.0
+2006,Mississippi,100.0
+2007,Mississippi,148.0
+2007,Mississippi,125.0
+2007,Mississippi,135.0
+2007,Mississippi,130.0
+2007,Mississippi,130.0
+2008,Mississippi,140.0
+2008,Mississippi,140.0
+2008,Mississippi,143.0
+2008,Mississippi,143.0
+2008,Mississippi,140.0
+2009,Mississippi,128.0
+2009,Mississippi,135.0
+2009,Mississippi,125.0
+2009,Mississippi,130.0
+2009,Mississippi,137.0
+2010,Mississippi,136.0
+2010,Mississippi,140.0
+2010,Mississippi,134.0
+2010,Mississippi,134.0
+2010,Mississippi,134.0
+2011,Mississippi,128.0
+2011,Mississippi,116.0
+2011,Mississippi,118.0
+2011,Mississippi,118.0
+2011,Mississippi,114.0
+2012,Mississippi,165.0
+2012,Mississippi,147.0
+2012,Mississippi,156.0
+2012,Mississippi,156.0
+2012,Mississippi,150.0
+2013,Mississippi,176.0
+2013,Mississippi,165.0
+2013,Mississippi,180.0
+2013,Mississippi,170.0
+2014,Mississippi,185.0
+2014,Mississippi,178.0
+2014,Mississippi,186.0
+2014,Mississippi,184.0
+2014,Mississippi,180.0
+2015,Mississippi,175.0
+2015,Mississippi,184.0
+2015,Mississippi,185.0
+2015,Mississippi,185.0
+2015,Mississippi,184.0
+2016,Mississippi,166.0
+2016,Mississippi,172.0
+2016,Mississippi,163.0
+2016,Mississippi,167.0
+2016,Mississippi,172.0
+2017,Mississippi,189.0
+2017,Mississippi,185.0
+2017,Mississippi,188.0
+2017,Mississippi,188.0
+2017,Mississippi,185.0
+2018,Mississippi,185.0
+2018,Mississippi,185.0
+2018,Mississippi,188.0
+2018,Mississippi,188.0
+2018,Mississippi,185.0
+2019,Mississippi,174.0
+2019,Mississippi,176.0
+2019,Mississippi,174.0
+2019,Mississippi,174.0
+2019,Mississippi,176.0
+2020,Mississippi,180.0
+2020,Mississippi,180.0
+2020,Mississippi,181.0
+2020,Mississippi,181.0
+2020,Mississippi,180.0
+2021,Mississippi,181.0
+2021,Mississippi,182.0
+2021,Mississippi,185.0
+2021,Mississippi,186.0
+2021,Mississippi,187.0
+2022,Mississippi,165.0
+2022,Mississippi,178.0
+2022,Mississippi,167.0
+2022,Mississippi,167.0
+2022,Mississippi,172.0
+2023,Mississippi,181.0
+2023,Mississippi,179.0
+2023,Mississippi,182.0
+2023,Mississippi,182.0
+2023,Mississippi,182.0
+2024,Mississippi,186.0
+2024,Mississippi,186.0
+2024,Mississippi,187.0
+2024,Mississippi,187.0
+2024,Mississippi,190.0
+2025,Mississippi,180.0
+2025,Mississippi,186.0
+2025,Mississippi,177.0
+2025,Mississippi,179.0
+2000,Missouri,143.0
+2000,Missouri,139.0
+2000,Missouri,145.0
+2000,Missouri,144.0
+2000,Missouri,139.0
+2001,Missouri,133.0
+2001,Missouri,132.0
+2001,Missouri,136.0
+2001,Missouri,136.0
+2001,Missouri,136.0
+2002,Missouri,105.0
+2002,Missouri,104.0
+2002,Missouri,100.0
+2002,Missouri,102.0
+2002,Missouri,102.0
+2003,Missouri,108.0
+2003,Missouri,110.0
+2003,Missouri,109.0
+2003,Missouri,109.0
+2003,Missouri,101.0
+2004,Missouri,162.0
+2004,Missouri,144.0
+2004,Missouri,159.0
+2004,Missouri,156.0
+2004,Missouri,144.0
+2005,Missouri,111.0
+2005,Missouri,99.0
+2005,Missouri,108.0
+2005,Missouri,105.0
+2005,Missouri,103.0
+2006,Missouri,138.0
+2006,Missouri,136.0
+2006,Missouri,142.0
+2006,Missouri,142.0
+2006,Missouri,142.0
+2007,Missouri,140.0
+2007,Missouri,137.0
+2007,Missouri,140.0
+2007,Missouri,140.0
+2007,Missouri,140.0
+2008,Missouri,144.0
+2008,Missouri,146.0
+2008,Missouri,140.0
+2008,Missouri,140.0
+2008,Missouri,142.0
+2009,Missouri,153.0
+2009,Missouri,146.0
+2009,Missouri,151.0
+2009,Missouri,151.0
+2009,Missouri,151.0
+2010,Missouri,123.0
+2010,Missouri,150.0
+2010,Missouri,127.0
+2010,Missouri,134.0
+2010,Missouri,143.0
+2011,Missouri,114.0
+2011,Missouri,126.0
+2011,Missouri,115.0
+2011,Missouri,115.0
+2011,Missouri,120.0
+2012,Missouri,75.0
+2012,Missouri,75.0
+2012,Missouri,75.0
+2012,Missouri,75.0
+2012,Missouri,75.0
+2013,Missouri,136.0
+2013,Missouri,130.0
+2013,Missouri,133.0
+2013,Missouri,125.0
+2014,Missouri,186.0
+2014,Missouri,160.0
+2014,Missouri,181.0
+2014,Missouri,180.0
+2014,Missouri,169.0
+2015,Missouri,142.0
+2015,Missouri,150.0
+2015,Missouri,145.0
+2015,Missouri,149.0
+2015,Missouri,150.0
+2016,Missouri,163.0
+2016,Missouri,166.0
+2016,Missouri,165.0
+2016,Missouri,165.0
+2016,Missouri,165.0
+2017,Missouri,170.0
+2017,Missouri,162.0
+2017,Missouri,175.0
+2017,Missouri,172.0
+2017,Missouri,164.0
+2018,Missouri,140.0
+2018,Missouri,131.0
+2018,Missouri,145.0
+2018,Missouri,142.0
+2018,Missouri,138.0
+2019,Missouri,155.0
+2019,Missouri,160.0
+2019,Missouri,155.0
+2019,Missouri,155.0
+2019,Missouri,160.0
+2020,Missouri,170.0
+2020,Missouri,175.0
+2020,Missouri,167.0
+2020,Missouri,169.0
+2020,Missouri,169.0
+2021,Missouri,159.0
+2021,Missouri,171.0
+2021,Missouri,160.0
+2021,Missouri,164.0
+2021,Missouri,169.0
+2022,Missouri,161.0
+2022,Missouri,153.0
+2022,Missouri,154.0
+2022,Missouri,151.0
+2022,Missouri,149.0
+2023,Missouri,153.0
+2023,Missouri,143.0
+2023,Missouri,147.0
+2023,Missouri,141.0
+2023,Missouri,145.0
+2024,Missouri,183.0
+2024,Missouri,181.0
+2024,Missouri,182.0
+2024,Missouri,185.0
+2024,Missouri,181.0
+2025,Missouri,185.0
+2025,Missouri,191.0
+2025,Missouri,178.0
+2025,Missouri,184.0
+2000,Montana,140.0
+2001,Montana,148.0
+2002,Montana,140.0
+2003,Montana,140.0
+2004,Montana,143.0
+2005,Montana,148.0
+2006,Montana,146.0
+2007,Montana,140.0
+2008,Montana,122.0
+2009,Montana,152.0
+2010,Montana,135.0
+2011,Montana,127.0
+2012,Montana,104.0
+2013,Montana,115.0
+2014,Montana,100.0
+2015,Montana,110.0
+2016,Montana,100.0
+2017,Montana,70.0
+2018,Montana,85.0
+2019,Montana,95.0
+2020,Montana,109.0
+2021,Montana,100.0
+2022,Montana,112.0
+2023,Montana,129.0
+2024,Montana,85.0
+2025,Montana,132.0
+2000,Nebraska,126.0
+2000,Nebraska,136.0
+2000,Nebraska,125.0
+2000,Nebraska,127.0
+2000,Nebraska,128.0
+2001,Nebraska,147.0
+2001,Nebraska,136.0
+2001,Nebraska,140.0
+2001,Nebraska,138.0
+2001,Nebraska,138.0
+2002,Nebraska,128.0
+2002,Nebraska,121.0
+2002,Nebraska,122.0
+2002,Nebraska,120.0
+2002,Nebraska,119.0
+2003,Nebraska,146.0
+2003,Nebraska,135.0
+2003,Nebraska,145.0
+2003,Nebraska,143.0
+2003,Nebraska,137.0
+2004,Nebraska,166.0
+2004,Nebraska,155.0
+2004,Nebraska,168.0
+2004,Nebraska,168.0
+2004,Nebraska,157.0
+2005,Nebraska,154.0
+2005,Nebraska,156.0
+2005,Nebraska,157.0
+2005,Nebraska,160.0
+2005,Nebraska,160.0
+2006,Nebraska,152.0
+2006,Nebraska,153.0
+2006,Nebraska,159.0
+2006,Nebraska,161.0
+2006,Nebraska,157.0
+2007,Nebraska,160.0
+2007,Nebraska,168.0
+2007,Nebraska,162.0
+2007,Nebraska,168.0
+2007,Nebraska,174.0
+2008,Nebraska,163.0
+2008,Nebraska,163.0
+2008,Nebraska,161.0
+2008,Nebraska,161.0
+2008,Nebraska,157.0
+2009,Nebraska,179.0
+2009,Nebraska,166.0
+2009,Nebraska,178.0
+2009,Nebraska,178.0
+2009,Nebraska,169.0
+2010,Nebraska,166.0
+2010,Nebraska,180.0
+2010,Nebraska,166.0
+2010,Nebraska,170.0
+2010,Nebraska,179.0
+2011,Nebraska,160.0
+2011,Nebraska,166.0
+2011,Nebraska,160.0
+2011,Nebraska,160.0
+2011,Nebraska,160.0
+2012,Nebraska,142.0
+2012,Nebraska,147.0
+2012,Nebraska,139.0
+2012,Nebraska,142.0
+2012,Nebraska,145.0
+2013,Nebraska,169.0
+2013,Nebraska,161.0
+2013,Nebraska,169.0
+2013,Nebraska,164.0
+2014,Nebraska,179.0
+2014,Nebraska,173.0
+2014,Nebraska,181.0
+2014,Nebraska,181.0
+2014,Nebraska,179.0
+2015,Nebraska,185.0
+2015,Nebraska,187.0
+2015,Nebraska,187.0
+2015,Nebraska,184.0
+2015,Nebraska,184.0
+2016,Nebraska,178.0
+2016,Nebraska,187.0
+2016,Nebraska,184.0
+2016,Nebraska,181.0
+2016,Nebraska,184.0
+2017,Nebraska,181.0
+2017,Nebraska,183.0
+2017,Nebraska,179.0
+2017,Nebraska,181.0
+2017,Nebraska,181.0
+2018,Nebraska,192.0
+2018,Nebraska,196.0
+2018,Nebraska,195.0
+2018,Nebraska,195.0
+2018,Nebraska,198.0
+2019,Nebraska,182.0
+2019,Nebraska,186.0
+2019,Nebraska,182.0
+2019,Nebraska,186.0
+2019,Nebraska,186.0
+2020,Nebraska,180.0
+2020,Nebraska,191.0
+2020,Nebraska,185.0
+2020,Nebraska,187.0
+2020,Nebraska,188.0
+2021,Nebraska,194.0
+2021,Nebraska,186.0
+2021,Nebraska,191.0
+2021,Nebraska,190.0
+2021,Nebraska,188.0
+2022,Nebraska,165.0
+2022,Nebraska,181.0
+2022,Nebraska,168.0
+2022,Nebraska,172.0
+2022,Nebraska,176.0
+2023,Nebraska,182.0
+2023,Nebraska,184.0
+2023,Nebraska,173.0
+2023,Nebraska,174.0
+2023,Nebraska,177.0
+2024,Nebraska,188.0
+2024,Nebraska,194.0
+2024,Nebraska,194.0
+2024,Nebraska,196.0
+2024,Nebraska,195.0
+2025,Nebraska,194.0
+2025,Nebraska,192.0
+2025,Nebraska,191.0
+2025,Nebraska,191.0
+2000,New Jersey,134.0
+2000,New Jersey,128.0
+2000,New Jersey,128.0
+2000,New Jersey,128.0
+2000,New Jersey,128.0
+2001,New Jersey,112.0
+2001,New Jersey,120.0
+2001,New Jersey,113.0
+2001,New Jersey,113.0
+2001,New Jersey,113.0
+2002,New Jersey,61.0
+2002,New Jersey,92.0
+2002,New Jersey,68.0
+2002,New Jersey,74.0
+2002,New Jersey,74.0
+2003,New Jersey,113.0
+2003,New Jersey,106.0
+2003,New Jersey,110.0
+2003,New Jersey,110.0
+2003,New Jersey,110.0
+2004,New Jersey,143.0
+2004,New Jersey,120.0
+2004,New Jersey,135.0
+2004,New Jersey,128.0
+2004,New Jersey,120.0
+2005,New Jersey,122.0
+2005,New Jersey,113.0
+2005,New Jersey,115.0
+2005,New Jersey,113.0
+2005,New Jersey,113.0
+2006,New Jersey,129.0
+2006,New Jersey,122.0
+2006,New Jersey,133.0
+2006,New Jersey,137.0
+2006,New Jersey,133.0
+2007,New Jersey,124.0
+2007,New Jersey,112.0
+2007,New Jersey,108.0
+2007,New Jersey,105.0
+2007,New Jersey,105.0
+2008,New Jersey,116.0
+2008,New Jersey,120.0
+2008,New Jersey,110.0
+2008,New Jersey,115.0
+2008,New Jersey,115.0
+2009,New Jersey,143.0
+2009,New Jersey,129.0
+2009,New Jersey,135.0
+2009,New Jersey,135.0
+2009,New Jersey,135.0
+2010,New Jersey,114.0
+2010,New Jersey,123.0
+2010,New Jersey,118.0
+2010,New Jersey,122.0
+2010,New Jersey,118.0
+2011,New Jersey,123.0
+2011,New Jersey,135.0
+2011,New Jersey,125.0
+2011,New Jersey,130.0
+2011,New Jersey,130.0
+2012,New Jersey,118.0
+2012,New Jersey,127.0
+2012,New Jersey,133.0
+2012,New Jersey,132.0
+2012,New Jersey,127.0
+2013,New Jersey,139.0
+2013,New Jersey,138.0
+2013,New Jersey,143.0
+2013,New Jersey,138.0
+2014,New Jersey,157.0
+2014,New Jersey,136.0
+2014,New Jersey,150.0
+2014,New Jersey,148.0
+2014,New Jersey,146.0
+2015,New Jersey,147.0
+2015,New Jersey,154.0
+2015,New Jersey,145.0
+2015,New Jersey,152.0
+2015,New Jersey,145.0
+2016,New Jersey,145.0
+2017,New Jersey,167.0
+2018,New Jersey,141.0
+2019,New Jersey,155.0
+2020,New Jersey,156.0
+2021,New Jersey,163.0
+2022,New Jersey,114.0
+2023,New Jersey,168.0
+2024,New Jersey,157.0
+2025,New Jersey,161.0
+2000,New Mexico,160.0
+2000,New Mexico,180.0
+2000,New Mexico,165.0
+2000,New Mexico,170.0
+2000,New Mexico,180.0
+2001,New Mexico,180.0
+2001,New Mexico,170.0
+2001,New Mexico,170.0
+2001,New Mexico,170.0
+2001,New Mexico,170.0
+2002,New Mexico,175.0
+2002,New Mexico,180.0
+2002,New Mexico,180.0
+2002,New Mexico,180.0
+2002,New Mexico,180.0
+2003,New Mexico,180.0
+2003,New Mexico,170.0
+2003,New Mexico,170.0
+2003,New Mexico,170.0
+2003,New Mexico,170.0
+2004,New Mexico,180.0
+2004,New Mexico,180.0
+2004,New Mexico,180.0
+2004,New Mexico,180.0
+2004,New Mexico,180.0
+2005,New Mexico,175.0
+2005,New Mexico,180.0
+2005,New Mexico,180.0
+2005,New Mexico,180.0
+2005,New Mexico,180.0
+2006,New Mexico,185.0
+2006,New Mexico,180.0
+2006,New Mexico,180.0
+2006,New Mexico,180.0
+2006,New Mexico,180.0
+2007,New Mexico,180.0
+2007,New Mexico,185.0
+2007,New Mexico,190.0
+2007,New Mexico,190.0
+2007,New Mexico,185.0
+2008,New Mexico,185.0
+2008,New Mexico,175.0
+2008,New Mexico,175.0
+2008,New Mexico,175.0
+2008,New Mexico,175.0
+2009,New Mexico,190.0
+2010,New Mexico,180.0
+2011,New Mexico,180.0
+2012,New Mexico,170.0
+2013,New Mexico,190.0
+2014,New Mexico,195.0
+2015,New Mexico,180.0
+2016,New Mexico,150.0
+2017,New Mexico,134.0
+2018,New Mexico,187.0
+2019,New Mexico,135.0
+2020,New Mexico,195.0
+2021,New Mexico,184.0
+2022,New Mexico,149.0
+2023,New Mexico,155.0
+2024,New Mexico,157.0
+2025,New Mexico,173.0
+2000,New York,98.0
+2000,New York,110.0
+2000,New York,108.0
+2000,New York,106.0
+2000,New York,106.0
+2001,New York,105.0
+2001,New York,105.0
+2001,New York,103.0
+2001,New York,95.0
+2001,New York,95.0
+2002,New York,97.0
+2002,New York,103.0
+2002,New York,89.0
+2002,New York,95.0
+2002,New York,98.0
+2003,New York,121.0
+2003,New York,110.0
+2003,New York,118.0
+2003,New York,112.0
+2003,New York,115.0
+2004,New York,122.0
+2004,New York,116.0
+2004,New York,121.0
+2004,New York,121.0
+2004,New York,116.0
+2005,New York,124.0
+2005,New York,120.0
+2005,New York,117.0
+2005,New York,117.0
+2005,New York,117.0
+2006,New York,129.0
+2006,New York,122.0
+2006,New York,123.0
+2006,New York,123.0
+2006,New York,120.0
+2007,New York,128.0
+2007,New York,123.0
+2007,New York,123.0
+2007,New York,123.0
+2007,New York,123.0
+2008,New York,144.0
+2008,New York,131.0
+2008,New York,134.0
+2008,New York,133.0
+2008,New York,131.0
+2009,New York,134.0
+2009,New York,131.0
+2009,New York,130.0
+2009,New York,132.0
+2009,New York,133.0
+2010,New York,149.0
+2010,New York,142.0
+2010,New York,150.0
+2010,New York,148.0
+2010,New York,144.0
+2011,New York,133.0
+2011,New York,130.0
+2011,New York,127.0
+2011,New York,130.0
+2011,New York,134.0
+2012,New York,134.0
+2012,New York,119.0
+2012,New York,135.0
+2012,New York,130.0
+2012,New York,120.0
+2013,New York,137.0
+2013,New York,150.0
+2013,New York,150.0
+2013,New York,150.0
+2014,New York,148.0
+2014,New York,150.0
+2014,New York,155.0
+2014,New York,154.0
+2014,New York,150.0
+2015,New York,143.0
+2015,New York,148.0
+2015,New York,146.0
+2015,New York,148.0
+2015,New York,148.0
+2016,New York,129.0
+2016,New York,140.0
+2016,New York,133.0
+2016,New York,131.0
+2016,New York,137.0
+2017,New York,161.0
+2017,New York,150.0
+2017,New York,147.0
+2017,New York,147.0
+2017,New York,150.0
+2018,New York,159.0
+2018,New York,158.0
+2018,New York,166.0
+2018,New York,163.0
+2018,New York,163.0
+2019,New York,158.0
+2019,New York,154.0
+2019,New York,148.0
+2019,New York,153.0
+2019,New York,154.0
+2020,New York,157.0
+2020,New York,167.0
+2020,New York,166.0
+2020,New York,167.0
+2020,New York,167.0
+2021,New York,167.0
+2021,New York,166.0
+2021,New York,170.0
+2021,New York,167.0
+2021,New York,167.0
+2022,New York,142.0
+2022,New York,150.0
+2022,New York,156.0
+2022,New York,154.0
+2022,New York,152.0
+2023,New York,159.0
+2023,New York,160.0
+2023,New York,168.0
+2023,New York,163.0
+2023,New York,164.0
+2024,New York,169.0
+2024,New York,165.0
+2024,New York,164.0
+2024,New York,168.0
+2024,New York,168.0
+2025,New York,140.0
+2025,New York,158.0
+2025,New York,135.0
+2025,New York,152.0
+2000,North Carolina,116.0
+2000,North Carolina,100.0
+2000,North Carolina,112.0
+2000,North Carolina,110.0
+2000,North Carolina,110.0
+2001,North Carolina,125.0
+2001,North Carolina,110.0
+2001,North Carolina,122.0
+2001,North Carolina,122.0
+2001,North Carolina,113.0
+2002,North Carolina,83.0
+2002,North Carolina,76.0
+2002,North Carolina,74.0
+2002,North Carolina,74.0
+2002,North Carolina,72.0
+2003,North Carolina,106.0
+2003,North Carolina,110.0
+2003,North Carolina,110.0
+2003,North Carolina,110.0
+2003,North Carolina,110.0
+2004,North Carolina,117.0
+2004,North Carolina,110.0
+2004,North Carolina,115.0
+2004,North Carolina,115.0
+2004,North Carolina,115.0
+2005,North Carolina,120.0
+2005,North Carolina,115.0
+2005,North Carolina,125.0
+2005,North Carolina,120.0
+2005,North Carolina,115.0
+2006,North Carolina,132.0
+2006,North Carolina,130.0
+2006,North Carolina,130.0
+2006,North Carolina,135.0
+2006,North Carolina,135.0
+2007,North Carolina,100.0
+2007,North Carolina,94.0
+2007,North Carolina,96.0
+2007,North Carolina,89.0
+2007,North Carolina,89.0
+2008,North Carolina,78.0
+2008,North Carolina,84.0
+2008,North Carolina,75.0
+2008,North Carolina,70.0
+2008,North Carolina,75.0
+2009,North Carolina,117.0
+2009,North Carolina,105.0
+2009,North Carolina,115.0
+2009,North Carolina,115.0
+2009,North Carolina,110.0
+2010,North Carolina,91.0
+2010,North Carolina,90.0
+2010,North Carolina,90.0
+2010,North Carolina,90.0
+2010,North Carolina,90.0
+2011,North Carolina,84.0
+2011,North Carolina,81.0
+2011,North Carolina,82.0
+2011,North Carolina,84.0
+2011,North Carolina,78.0
+2012,North Carolina,117.0
+2012,North Carolina,114.0
+2012,North Carolina,120.0
+2012,North Carolina,120.0
+2012,North Carolina,120.0
+2013,North Carolina,142.0
+2013,North Carolina,132.0
+2013,North Carolina,140.0
+2013,North Carolina,132.0
+2014,North Carolina,132.0
+2014,North Carolina,132.0
+2014,North Carolina,136.0
+2014,North Carolina,136.0
+2014,North Carolina,138.0
+2015,North Carolina,113.0
+2015,North Carolina,115.0
+2015,North Carolina,118.0
+2015,North Carolina,120.0
+2015,North Carolina,110.0
+2016,North Carolina,129.0
+2016,North Carolina,130.0
+2016,North Carolina,144.0
+2016,North Carolina,141.0
+2016,North Carolina,138.0
+2017,North Carolina,142.0
+2017,North Carolina,140.0
+2017,North Carolina,140.0
+2017,North Carolina,138.0
+2017,North Carolina,142.0
+2018,North Carolina,113.0
+2018,North Carolina,120.0
+2018,North Carolina,117.0
+2018,North Carolina,117.0
+2018,North Carolina,122.0
+2019,North Carolina,111.0
+2019,North Carolina,110.0
+2019,North Carolina,107.0
+2019,North Carolina,110.0
+2019,North Carolina,110.0
+2020,North Carolina,113.0
+2020,North Carolina,131.0
+2020,North Carolina,117.0
+2020,North Carolina,117.0
+2020,North Carolina,127.0
+2021,North Carolina,149.0
+2021,North Carolina,141.0
+2021,North Carolina,146.0
+2021,North Carolina,146.0
+2021,North Carolina,142.0
+2022,North Carolina,126.0
+2022,North Carolina,108.0
+2022,North Carolina,112.0
+2022,North Carolina,116.0
+2022,North Carolina,114.0
+2023,North Carolina,147.0
+2023,North Carolina,147.0
+2023,North Carolina,143.0
+2023,North Carolina,147.0
+2023,North Carolina,147.0
+2024,North Carolina,87.0
+2024,North Carolina,100.0
+2024,North Carolina,86.0
+2024,North Carolina,88.0
+2024,North Carolina,88.0
+2025,North Carolina,144.0
+2025,North Carolina,143.0
+2025,North Carolina,139.0
+2025,North Carolina,148.0
+2000,North Dakota,112.0
+2000,North Dakota,115.0
+2000,North Dakota,118.0
+2000,North Dakota,116.0
+2000,North Dakota,116.0
+2001,North Dakota,115.0
+2001,North Dakota,112.0
+2001,North Dakota,110.0
+2001,North Dakota,110.0
+2001,North Dakota,110.0
+2002,North Dakota,114.0
+2002,North Dakota,107.0
+2002,North Dakota,110.0
+2002,North Dakota,108.0
+2002,North Dakota,110.0
+2003,North Dakota,112.0
+2003,North Dakota,115.0
+2003,North Dakota,104.0
+2003,North Dakota,100.0
+2003,North Dakota,104.0
+2004,North Dakota,105.0
+2004,North Dakota,110.0
+2004,North Dakota,110.0
+2004,North Dakota,110.0
+2004,North Dakota,105.0
+2005,North Dakota,129.0
+2005,North Dakota,115.0
+2005,North Dakota,125.0
+2005,North Dakota,120.0
+2005,North Dakota,120.0
+2006,North Dakota,111.0
+2006,North Dakota,102.0
+2006,North Dakota,113.0
+2006,North Dakota,105.0
+2006,North Dakota,105.0
+2007,North Dakota,116.0
+2007,North Dakota,125.0
+2007,North Dakota,124.0
+2007,North Dakota,127.0
+2007,North Dakota,127.0
+2008,North Dakota,124.0
+2008,North Dakota,122.0
+2008,North Dakota,124.0
+2008,North Dakota,127.0
+2008,North Dakota,125.0
+2009,North Dakota,115.0
+2009,North Dakota,118.0
+2009,North Dakota,121.0
+2009,North Dakota,123.0
+2009,North Dakota,120.0
+2010,North Dakota,132.0
+2010,North Dakota,140.0
+2010,North Dakota,137.0
+2010,North Dakota,140.0
+2010,North Dakota,140.0
+2011,North Dakota,105.0
+2011,North Dakota,125.0
+2011,North Dakota,110.0
+2011,North Dakota,121.0
+2011,North Dakota,125.0
+2012,North Dakota,122.0
+2012,North Dakota,100.0
+2012,North Dakota,120.0
+2012,North Dakota,115.0
+2012,North Dakota,105.0
+2013,North Dakota,110.0
+2013,North Dakota,116.0
+2013,North Dakota,107.0
+2013,North Dakota,111.0
+2014,North Dakota,124.0
+2014,North Dakota,127.0
+2014,North Dakota,128.0
+2014,North Dakota,128.0
+2014,North Dakota,132.0
+2015,North Dakota,128.0
+2015,North Dakota,126.0
+2015,North Dakota,129.0
+2015,North Dakota,126.0
+2015,North Dakota,128.0
+2016,North Dakota,158.0
+2016,North Dakota,135.0
+2016,North Dakota,154.0
+2016,North Dakota,137.0
+2016,North Dakota,135.0
+2017,North Dakota,139.0
+2017,North Dakota,121.0
+2017,North Dakota,134.0
+2017,North Dakota,126.0
+2017,North Dakota,124.0
+2018,North Dakota,153.0
+2018,North Dakota,148.0
+2018,North Dakota,146.0
+2018,North Dakota,146.0
+2018,North Dakota,142.0
+2019,North Dakota,131.0
+2019,North Dakota,146.0
+2019,North Dakota,142.0
+2019,North Dakota,146.0
+2019,North Dakota,145.0
+2020,North Dakota,139.0
+2020,North Dakota,155.0
+2020,North Dakota,145.0
+2020,North Dakota,160.0
+2020,North Dakota,157.0
+2021,North Dakota,105.0
+2021,North Dakota,106.0
+2021,North Dakota,108.0
+2021,North Dakota,107.0
+2021,North Dakota,108.0
+2022,North Dakota,130.0
+2022,North Dakota,145.0
+2022,North Dakota,143.0
+2022,North Dakota,141.0
+2022,North Dakota,141.0
+2023,North Dakota,143.0
+2023,North Dakota,130.0
+2023,North Dakota,143.0
+2023,North Dakota,136.0
+2023,North Dakota,138.0
+2024,North Dakota,149.0
+2024,North Dakota,144.0
+2024,North Dakota,149.0
+2024,North Dakota,144.0
+2024,North Dakota,146.0
+2025,North Dakota,158.0
+2025,North Dakota,148.0
+2025,North Dakota,146.0
+2025,North Dakota,145.0
+2000,Ohio,147.0
+2000,Ohio,142.0
+2000,Ohio,149.0
+2000,Ohio,152.0
+2000,Ohio,145.0
+2001,Ohio,138.0
+2001,Ohio,138.0
+2001,Ohio,144.0
+2001,Ohio,143.0
+2001,Ohio,139.0
+2002,Ohio,89.0
+2002,Ohio,112.0
+2002,Ohio,96.0
+2002,Ohio,104.0
+2002,Ohio,110.0
+2003,Ohio,156.0
+2003,Ohio,142.0
+2003,Ohio,156.0
+2003,Ohio,154.0
+2003,Ohio,145.0
+2004,Ohio,158.0
+2004,Ohio,154.0
+2004,Ohio,160.0
+2004,Ohio,160.0
+2004,Ohio,156.0
+2005,Ohio,143.0
+2005,Ohio,135.0
+2005,Ohio,143.0
+2005,Ohio,141.0
+2005,Ohio,141.0
+2006,Ohio,159.0
+2006,Ohio,160.0
+2006,Ohio,161.0
+2006,Ohio,161.0
+2006,Ohio,160.0
+2007,Ohio,150.0
+2007,Ohio,143.0
+2007,Ohio,150.0
+2007,Ohio,150.0
+2007,Ohio,150.0
+2008,Ohio,131.0
+2008,Ohio,160.0
+2008,Ohio,140.0
+2008,Ohio,147.0
+2008,Ohio,152.0
+2009,Ohio,171.0
+2009,Ohio,165.0
+2009,Ohio,166.0
+2009,Ohio,166.0
+2009,Ohio,165.0
+2010,Ohio,160.0
+2010,Ohio,176.0
+2010,Ohio,165.0
+2010,Ohio,167.0
+2010,Ohio,173.0
+2011,Ohio,153.0
+2011,Ohio,158.0
+2011,Ohio,159.0
+2011,Ohio,154.0
+2011,Ohio,153.0
+2012,Ohio,120.0
+2012,Ohio,126.0
+2012,Ohio,125.0
+2012,Ohio,123.0
+2012,Ohio,126.0
+2013,Ohio,174.0
+2013,Ohio,172.0
+2013,Ohio,174.0
+2013,Ohio,172.0
+2014,Ohio,176.0
+2014,Ohio,177.0
+2014,Ohio,177.0
+2014,Ohio,178.0
+2014,Ohio,179.0
+2015,Ohio,153.0
+2015,Ohio,168.0
+2015,Ohio,163.0
+2015,Ohio,165.0
+2015,Ohio,163.0
+2016,Ohio,159.0
+2016,Ohio,163.0
+2016,Ohio,164.0
+2016,Ohio,160.0
+2016,Ohio,162.0
+2017,Ohio,177.0
+2017,Ohio,171.0
+2017,Ohio,173.0
+2017,Ohio,173.0
+2017,Ohio,173.0
+2018,Ohio,187.0
+2018,Ohio,180.0
+2018,Ohio,193.0
+2018,Ohio,190.0
+2018,Ohio,188.0
+2019,Ohio,164.0
+2019,Ohio,160.0
+2019,Ohio,163.0
+2019,Ohio,160.0
+2019,Ohio,158.0
+2020,Ohio,171.0
+2020,Ohio,175.0
+2020,Ohio,168.0
+2020,Ohio,173.0
+2020,Ohio,172.0
+2021,Ohio,193.0
+2021,Ohio,193.0
+2021,Ohio,188.0
+2021,Ohio,188.0
+2021,Ohio,190.0
+2022,Ohio,187.0
+2022,Ohio,190.0
+2022,Ohio,186.0
+2022,Ohio,187.0
+2022,Ohio,186.0
+2023,Ohio,198.0
+2023,Ohio,191.0
+2023,Ohio,195.0
+2023,Ohio,195.0
+2023,Ohio,195.0
+2024,Ohio,177.0
+2024,Ohio,188.0
+2024,Ohio,185.0
+2024,Ohio,183.0
+2024,Ohio,187.0
+2025,Ohio,185.0
+2025,Ohio,196.0
+2025,Ohio,194.0
+2025,Ohio,194.0
+2000,Oklahoma,140.0
+2000,Oklahoma,135.0
+2000,Oklahoma,130.0
+2000,Oklahoma,130.0
+2000,Oklahoma,135.0
+2001,Oklahoma,125.0
+2001,Oklahoma,130.0
+2001,Oklahoma,120.0
+2001,Oklahoma,125.0
+2001,Oklahoma,125.0
+2002,Oklahoma,130.0
+2002,Oklahoma,125.0
+2002,Oklahoma,140.0
+2002,Oklahoma,130.0
+2002,Oklahoma,130.0
+2003,Oklahoma,125.0
+2003,Oklahoma,130.0
+2003,Oklahoma,125.0
+2003,Oklahoma,125.0
+2003,Oklahoma,130.0
+2004,Oklahoma,150.0
+2004,Oklahoma,150.0
+2004,Oklahoma,135.0
+2004,Oklahoma,140.0
+2004,Oklahoma,150.0
+2005,Oklahoma,115.0
+2005,Oklahoma,130.0
+2005,Oklahoma,135.0
+2005,Oklahoma,135.0
+2005,Oklahoma,132.0
+2006,Oklahoma,105.0
+2006,Oklahoma,110.0
+2006,Oklahoma,105.0
+2006,Oklahoma,105.0
+2006,Oklahoma,105.0
+2007,Oklahoma,145.0
+2007,Oklahoma,135.0
+2007,Oklahoma,138.0
+2007,Oklahoma,138.0
+2007,Oklahoma,138.0
+2008,Oklahoma,110.0
+2008,Oklahoma,130.0
+2008,Oklahoma,134.0
+2008,Oklahoma,134.0
+2008,Oklahoma,134.0
+2009,Oklahoma,105.0
+2009,Oklahoma,110.0
+2009,Oklahoma,110.0
+2009,Oklahoma,110.0
+2009,Oklahoma,105.0
+2010,Oklahoma,128.0
+2010,Oklahoma,135.0
+2010,Oklahoma,130.0
+2010,Oklahoma,130.0
+2010,Oklahoma,135.0
+2011,Oklahoma,92.0
+2011,Oklahoma,85.0
+2011,Oklahoma,80.0
+2011,Oklahoma,85.0
+2011,Oklahoma,90.0
+2012,Oklahoma,110.0
+2012,Oklahoma,100.0
+2012,Oklahoma,115.0
+2012,Oklahoma,115.0
+2012,Oklahoma,110.0
+2013,Oklahoma,145.0
+2013,Oklahoma,115.0
+2013,Oklahoma,125.0
+2013,Oklahoma,115.0
+2014,Oklahoma,147.0
+2014,Oklahoma,145.0
+2014,Oklahoma,160.0
+2014,Oklahoma,165.0
+2014,Oklahoma,150.0
+2015,Oklahoma,129.0
+2015,Oklahoma,140.0
+2015,Oklahoma,137.0
+2015,Oklahoma,137.0
+2015,Oklahoma,140.0
+2016,Oklahoma,121.0
+2016,Oklahoma,135.0
+2016,Oklahoma,115.0
+2016,Oklahoma,117.0
+2016,Oklahoma,125.0
+2017,Oklahoma,126.0
+2017,Oklahoma,115.0
+2017,Oklahoma,130.0
+2017,Oklahoma,123.0
+2017,Oklahoma,120.0
+2018,Oklahoma,134.0
+2018,Oklahoma,120.0
+2018,Oklahoma,140.0
+2018,Oklahoma,130.0
+2018,Oklahoma,125.0
+2019,Oklahoma,137.0
+2019,Oklahoma,145.0
+2019,Oklahoma,142.0
+2019,Oklahoma,142.0
+2019,Oklahoma,140.0
+2020,Oklahoma,135.0
+2020,Oklahoma,130.0
+2020,Oklahoma,138.0
+2020,Oklahoma,135.0
+2020,Oklahoma,135.0
+2021,Oklahoma,150.0
+2021,Oklahoma,150.0
+2021,Oklahoma,155.0
+2021,Oklahoma,150.0
+2021,Oklahoma,150.0
+2022,Oklahoma,122.0
+2022,Oklahoma,130.0
+2022,Oklahoma,122.0
+2022,Oklahoma,125.0
+2022,Oklahoma,120.0
+2023,Oklahoma,149.0
+2023,Oklahoma,135.0
+2023,Oklahoma,144.0
+2023,Oklahoma,144.0
+2023,Oklahoma,141.0
+2024,Oklahoma,98.0
+2024,Oklahoma,142.0
+2024,Oklahoma,130.0
+2024,Oklahoma,136.0
+2024,Oklahoma,139.0
+2025,Oklahoma,122.0
+2025,Oklahoma,130.0
+2025,Oklahoma,128.0
+2025,Oklahoma,130.0
+2000,Oregon,180.0
+2001,Oregon,140.0
+2002,Oregon,160.0
+2003,Oregon,170.0
+2004,Oregon,170.0
+2005,Oregon,160.0
+2006,Oregon,180.0
+2007,Oregon,200.0
+2008,Oregon,195.0
+2009,Oregon,215.0
+2010,Oregon,200.0
+2011,Oregon,215.0
+2012,Oregon,205.0
+2013,Oregon,188.0
+2014,Oregon,190.0
+2015,Oregon,188.0
+2016,Oregon,230.0
+2017,Oregon,212.0
+2018,Oregon,195.0
+2019,Oregon,237.0
+2020,Oregon,241.0
+2021,Oregon,240.0
+2022,Oregon,237.0
+2023,Oregon,214.0
+2024,Oregon,208.0
+2025,Oregon,236.0
+2000,Other States,138.3
+2000,Other States,133.5
+2000,Other States,134.2
+2000,Other States,134.7
+2001,Other States,141.3
+2001,Other States,145.8
+2001,Other States,145.8
+2001,Other States,143.6
+2002,Other States,145.2
+2002,Other States,139.8
+2002,Other States,140.0
+2002,Other States,141.2
+2003,Other States,141.6
+2003,Other States,140.5
+2003,Other States,141.1
+2003,Other States,137.3
+2004,Other States,138.3
+2004,Other States,144.0
+2004,Other States,144.0
+2004,Other States,140.3
+2005,Other States,143.6
+2005,Other States,146.6
+2005,Other States,146.6
+2005,Other States,142.6
+2006,Other States,146.4
+2006,Other States,145.6
+2006,Other States,145.6
+2006,Other States,147.0
+2007,Other States,142.9
+2007,Other States,144.3
+2007,Other States,144.3
+2007,Other States,143.6
+2008,Other States,150.7
+2008,Other States,148.5
+2008,Other States,148.5
+2008,Other States,150.7
+2009,Other States,153.3
+2009,Other States,154.0
+2009,Other States,155.0
+2009,Other States,154.1
+2010,Other States,161.1
+2010,Other States,160.7
+2010,Other States,160.7
+2010,Other States,161.1
+2011,Other States,160.3
+2011,Other States,159.5
+2011,Other States,159.5
+2011,Other States,160.3
+2012,Other States,163.3
+2012,Other States,160.9
+2012,Other States,160.9
+2012,Other States,164.0
+2013,Other States,164.1
+2013,Other States,162.2
+2013,Other States,164.1
+2014,Other States,165.9
+2014,Other States,164.7
+2014,Other States,164.7
+2014,Other States,165.9
+2015,Other States,0.0
+2015,Other States,161.4
+2015,Other States,161.1
+2015,Other States,161.1
+2015,Other States,161.4
+2016,Other States,0.0
+2016,Other States,163.0
+2016,Other States,162.9
+2016,Other States,162.9
+2016,Other States,163.0
+2017,Other States,0.0
+2017,Other States,159.6
+2017,Other States,157.8
+2017,Other States,157.8
+2017,Other States,159.6
+2018,Other States,0.0
+2018,Other States,153.7
+2018,Other States,153.3
+2018,Other States,0.0
+2018,Other States,154.5
+2019,Other States,0.0
+2019,Other States,167.3
+2019,Other States,170.2
+2019,Other States,170.2
+2019,Other States,166.4
+2020,Other States,0.0
+2020,Other States,159.3
+2020,Other States,161.0
+2020,Other States,161.0
+2020,Other States,159.3
+2021,Other States,0.0
+2021,Other States,161.4
+2021,Other States,161.1
+2021,Other States,161.1
+2021,Other States,159.3
+2022,Other States,0.0
+2022,Other States,152.6
+2022,Other States,147.1
+2022,Other States,147.1
+2022,Other States,149.8
+2023,Other States,0.0
+2023,Other States,162.4
+2023,Other States,162.2
+2023,Other States,162.2
+2023,Other States,162.2
+2024,Other States,0.0
+2024,Other States,160.5
+2024,Other States,159.9
+2024,Other States,159.9
+2024,Other States,162.0
+2025,Other States,0.0
+2025,Other States,157.8
+2025,Other States,157.8
+2025,Other States,157.8
+2000,Pennsylvania,127.0
+2000,Pennsylvania,127.0
+2000,Pennsylvania,129.0
+2000,Pennsylvania,129.0
+2000,Pennsylvania,129.0
+2001,Pennsylvania,98.0
+2001,Pennsylvania,108.0
+2001,Pennsylvania,94.0
+2001,Pennsylvania,94.0
+2001,Pennsylvania,98.0
+2002,Pennsylvania,68.0
+2002,Pennsylvania,90.0
+2002,Pennsylvania,68.0
+2002,Pennsylvania,72.0
+2002,Pennsylvania,72.0
+2003,Pennsylvania,115.0
+2003,Pennsylvania,115.0
+2003,Pennsylvania,120.0
+2003,Pennsylvania,120.0
+2003,Pennsylvania,122.0
+2004,Pennsylvania,140.0
+2004,Pennsylvania,123.0
+2004,Pennsylvania,145.0
+2004,Pennsylvania,134.0
+2004,Pennsylvania,129.0
+2005,Pennsylvania,122.0
+2005,Pennsylvania,123.0
+2005,Pennsylvania,123.0
+2005,Pennsylvania,123.0
+2005,Pennsylvania,120.0
+2006,Pennsylvania,122.0
+2006,Pennsylvania,135.0
+2006,Pennsylvania,128.0
+2006,Pennsylvania,131.0
+2006,Pennsylvania,135.0
+2007,Pennsylvania,124.0
+2007,Pennsylvania,110.0
+2007,Pennsylvania,120.0
+2007,Pennsylvania,115.0
+2007,Pennsylvania,110.0
+2008,Pennsylvania,133.0
+2008,Pennsylvania,130.0
+2008,Pennsylvania,122.0
+2008,Pennsylvania,122.0
+2008,Pennsylvania,122.0
+2009,Pennsylvania,142.0
+2009,Pennsylvania,137.0
+2009,Pennsylvania,144.0
+2009,Pennsylvania,144.0
+2009,Pennsylvania,144.0
+2010,Pennsylvania,128.0
+2010,Pennsylvania,132.0
+2010,Pennsylvania,128.0
+2010,Pennsylvania,128.0
+2010,Pennsylvania,128.0
+2011,Pennsylvania,111.0
+2011,Pennsylvania,112.0
+2011,Pennsylvania,109.0
+2011,Pennsylvania,109.0
+2011,Pennsylvania,114.0
+2012,Pennsylvania,131.0
+2012,Pennsylvania,118.0
+2012,Pennsylvania,130.0
+2012,Pennsylvania,127.0
+2012,Pennsylvania,125.0
+2013,Pennsylvania,146.0
+2013,Pennsylvania,150.0
+2013,Pennsylvania,155.0
+2013,Pennsylvania,150.0
+2014,Pennsylvania,154.0
+2014,Pennsylvania,149.0
+2014,Pennsylvania,152.0
+2014,Pennsylvania,152.0
+2014,Pennsylvania,148.0
+2015,Pennsylvania,147.0
+2015,Pennsylvania,150.0
+2015,Pennsylvania,153.0
+2015,Pennsylvania,153.0
+2015,Pennsylvania,150.0
+2016,Pennsylvania,129.0
+2016,Pennsylvania,141.0
+2016,Pennsylvania,134.0
+2016,Pennsylvania,134.0
+2016,Pennsylvania,137.0
+2017,Pennsylvania,161.0
+2017,Pennsylvania,160.0
+2017,Pennsylvania,163.0
+2017,Pennsylvania,163.0
+2017,Pennsylvania,160.0
+2018,Pennsylvania,140.0
+2018,Pennsylvania,154.0
+2018,Pennsylvania,155.0
+2018,Pennsylvania,157.0
+2018,Pennsylvania,160.0
+2019,Pennsylvania,153.0
+2019,Pennsylvania,149.0
+2019,Pennsylvania,160.0
+2019,Pennsylvania,160.0
+2019,Pennsylvania,155.0
+2020,Pennsylvania,138.0
+2020,Pennsylvania,144.0
+2020,Pennsylvania,152.0
+2020,Pennsylvania,157.0
+2020,Pennsylvania,153.0
+2021,Pennsylvania,169.0
+2021,Pennsylvania,164.0
+2021,Pennsylvania,169.0
+2021,Pennsylvania,169.0
+2021,Pennsylvania,167.0
+2022,Pennsylvania,140.0
+2022,Pennsylvania,158.0
+2022,Pennsylvania,142.0
+2022,Pennsylvania,148.0
+2022,Pennsylvania,150.0
+2023,Pennsylvania,157.0
+2023,Pennsylvania,153.0
+2023,Pennsylvania,154.0
+2023,Pennsylvania,154.0
+2023,Pennsylvania,156.0
+2024,Pennsylvania,138.0
+2024,Pennsylvania,135.0
+2024,Pennsylvania,139.0
+2024,Pennsylvania,139.0
+2024,Pennsylvania,139.0
+2025,Pennsylvania,151.0
+2025,Pennsylvania,164.0
+2025,Pennsylvania,150.0
+2025,Pennsylvania,157.0
+2000,South Carolina,65.0
+2000,South Carolina,65.0
+2000,South Carolina,70.0
+2000,South Carolina,70.0
+2000,South Carolina,70.0
+2001,South Carolina,108.0
+2001,South Carolina,95.0
+2001,South Carolina,102.0
+2001,South Carolina,102.0
+2001,South Carolina,100.0
+2002,South Carolina,47.0
+2002,South Carolina,42.0
+2002,South Carolina,35.0
+2002,South Carolina,35.0
+2002,South Carolina,35.0
+2003,South Carolina,105.0
+2003,South Carolina,105.0
+2003,South Carolina,115.0
+2003,South Carolina,112.0
+2003,South Carolina,114.0
+2004,South Carolina,100.0
+2004,South Carolina,94.0
+2004,South Carolina,100.0
+2004,South Carolina,97.0
+2004,South Carolina,95.0
+2005,South Carolina,114.0
+2005,South Carolina,108.0
+2005,South Carolina,107.0
+2005,South Carolina,107.0
+2005,South Carolina,105.0
+2006,South Carolina,110.0
+2006,South Carolina,99.0
+2006,South Carolina,104.0
+2006,South Carolina,108.0
+2006,South Carolina,106.0
+2007,South Carolina,97.0
+2007,South Carolina,100.0
+2007,South Carolina,95.0
+2007,South Carolina,95.0
+2007,South Carolina,100.0
+2008,South Carolina,63.0
+2008,South Carolina,65.0
+2008,South Carolina,54.0
+2008,South Carolina,52.0
+2008,South Carolina,55.0
+2009,South Carolina,111.0
+2009,South Carolina,98.0
+2009,South Carolina,110.0
+2009,South Carolina,110.0
+2009,South Carolina,107.0
+2010,South Carolina,84.0
+2010,South Carolina,97.0
+2010,South Carolina,92.0
+2010,South Carolina,91.0
+2010,South Carolina,99.0
+2011,South Carolina,65.0
+2011,South Carolina,60.0
+2011,South Carolina,55.0
+2011,South Carolina,57.0
+2011,South Carolina,57.0
+2012,South Carolina,122.0
+2012,South Carolina,118.0
+2012,South Carolina,122.0
+2012,South Carolina,122.0
+2012,South Carolina,122.0
+2013,South Carolina,129.0
+2013,South Carolina,124.0
+2013,South Carolina,134.0
+2013,South Carolina,127.0
+2014,South Carolina,117.0
+2014,South Carolina,117.0
+2014,South Carolina,118.0
+2014,South Carolina,118.0
+2014,South Carolina,117.0
+2015,South Carolina,93.0
+2015,South Carolina,113.0
+2015,South Carolina,103.0
+2015,South Carolina,110.0
+2015,South Carolina,107.0
+2016,South Carolina,127.0
+2016,South Carolina,132.0
+2016,South Carolina,135.0
+2016,South Carolina,130.0
+2016,South Carolina,130.0
+2017,South Carolina,136.0
+2017,South Carolina,137.0
+2017,South Carolina,137.0
+2017,South Carolina,135.0
+2017,South Carolina,135.0
+2018,South Carolina,127.0
+2018,South Carolina,127.0
+2018,South Carolina,121.0
+2018,South Carolina,121.0
+2018,South Carolina,124.0
+2019,South Carolina,106.0
+2019,South Carolina,109.0
+2019,South Carolina,105.0
+2019,South Carolina,110.0
+2019,South Carolina,117.0
+2020,South Carolina,132.0
+2020,South Carolina,136.0
+2020,South Carolina,136.0
+2020,South Carolina,136.0
+2020,South Carolina,136.0
+2021,South Carolina,139.0
+2021,South Carolina,134.0
+2021,South Carolina,134.0
+2021,South Carolina,136.0
+2021,South Carolina,134.0
+2022,South Carolina,122.0
+2022,South Carolina,128.0
+2022,South Carolina,123.0
+2022,South Carolina,125.0
+2022,South Carolina,126.0
+2023,South Carolina,150.0
+2023,South Carolina,138.0
+2023,South Carolina,150.0
+2023,South Carolina,147.0
+2023,South Carolina,142.0
+2024,South Carolina,101.0
+2024,South Carolina,95.0
+2024,South Carolina,90.0
+2024,South Carolina,95.0
+2024,South Carolina,90.0
+2025,South Carolina,138.0
+2025,South Carolina,150.0
+2025,South Carolina,155.0
+2025,South Carolina,150.0
+2000,South Dakota,112.0
+2000,South Dakota,100.0
+2000,South Dakota,108.0
+2000,South Dakota,108.0
+2000,South Dakota,108.0
+2001,South Dakota,109.0
+2001,South Dakota,120.0
+2001,South Dakota,114.0
+2001,South Dakota,116.0
+2001,South Dakota,116.0
+2002,South Dakota,95.0
+2002,South Dakota,95.0
+2002,South Dakota,95.0
+2002,South Dakota,95.0
+2002,South Dakota,97.0
+2003,South Dakota,111.0
+2003,South Dakota,110.0
+2003,South Dakota,105.0
+2003,South Dakota,105.0
+2003,South Dakota,105.0
+2004,South Dakota,130.0
+2004,South Dakota,118.0
+2004,South Dakota,127.0
+2004,South Dakota,120.0
+2004,South Dakota,118.0
+2005,South Dakota,119.0
+2005,South Dakota,120.0
+2005,South Dakota,123.0
+2005,South Dakota,118.0
+2005,South Dakota,116.0
+2006,South Dakota,97.0
+2006,South Dakota,100.0
+2006,South Dakota,107.0
+2006,South Dakota,105.0
+2006,South Dakota,105.0
+2007,South Dakota,121.0
+2007,South Dakota,117.0
+2007,South Dakota,125.0
+2007,South Dakota,128.0
+2007,South Dakota,124.0
+2008,South Dakota,133.0
+2008,South Dakota,135.0
+2008,South Dakota,129.0
+2008,South Dakota,132.0
+2008,South Dakota,135.0
+2009,South Dakota,151.0
+2009,South Dakota,141.0
+2009,South Dakota,150.0
+2009,South Dakota,150.0
+2009,South Dakota,147.0
+2010,South Dakota,135.0
+2010,South Dakota,148.0
+2010,South Dakota,140.0
+2010,South Dakota,145.0
+2010,South Dakota,145.0
+2011,South Dakota,132.0
+2011,South Dakota,141.0
+2011,South Dakota,135.0
+2011,South Dakota,139.0
+2011,South Dakota,138.0
+2012,South Dakota,101.0
+2012,South Dakota,98.0
+2012,South Dakota,94.0
+2012,South Dakota,94.0
+2012,South Dakota,96.0
+2013,South Dakota,137.0
+2013,South Dakota,138.0
+2013,South Dakota,145.0
+2013,South Dakota,145.0
+2014,South Dakota,148.0
+2014,South Dakota,139.0
+2014,South Dakota,151.0
+2014,South Dakota,151.0
+2014,South Dakota,148.0
+2015,South Dakota,159.0
+2015,South Dakota,160.0
+2015,South Dakota,162.0
+2015,South Dakota,161.0
+2015,South Dakota,159.0
+2016,South Dakota,161.0
+2016,South Dakota,147.0
+2016,South Dakota,148.0
+2016,South Dakota,145.0
+2016,South Dakota,142.0
+2017,South Dakota,145.0
+2017,South Dakota,140.0
+2017,South Dakota,150.0
+2017,South Dakota,147.0
+2017,South Dakota,145.0
+2018,South Dakota,160.0
+2018,South Dakota,170.0
+2018,South Dakota,166.0
+2018,South Dakota,172.0
+2018,South Dakota,173.0
+2019,South Dakota,144.0
+2019,South Dakota,157.0
+2019,South Dakota,151.0
+2019,South Dakota,154.0
+2019,South Dakota,156.0
+2020,South Dakota,162.0
+2020,South Dakota,167.0
+2020,South Dakota,165.0
+2020,South Dakota,165.0
+2020,South Dakota,168.0
+2021,South Dakota,134.0
+2021,South Dakota,133.0
+2021,South Dakota,137.0
+2021,South Dakota,133.0
+2021,South Dakota,133.0
+2022,South Dakota,132.0
+2022,South Dakota,147.0
+2022,South Dakota,125.0
+2022,South Dakota,130.0
+2022,South Dakota,138.0
+2023,South Dakota,152.0
+2023,South Dakota,145.0
+2023,South Dakota,152.0
+2023,South Dakota,147.0
+2023,South Dakota,146.0
+2024,South Dakota,164.0
+2024,South Dakota,162.0
+2024,South Dakota,166.0
+2024,South Dakota,163.0
+2024,South Dakota,163.0
+2025,South Dakota,171.0
+2025,South Dakota,168.0
+2025,South Dakota,173.0
+2025,South Dakota,167.0
+2000,Tennessee,114.0
+2000,Tennessee,108.0
+2000,Tennessee,112.0
+2000,Tennessee,109.0
+2000,Tennessee,108.0
+2001,Tennessee,132.0
+2001,Tennessee,122.0
+2001,Tennessee,133.0
+2001,Tennessee,132.0
+2001,Tennessee,127.0
+2002,Tennessee,107.0
+2002,Tennessee,110.0
+2002,Tennessee,106.0
+2002,Tennessee,107.0
+2002,Tennessee,106.0
+2003,Tennessee,131.0
+2003,Tennessee,120.0
+2003,Tennessee,134.0
+2003,Tennessee,132.0
+2003,Tennessee,130.0
+2004,Tennessee,140.0
+2004,Tennessee,138.0
+2004,Tennessee,140.0
+2004,Tennessee,140.0
+2004,Tennessee,140.0
+2005,Tennessee,130.0
+2005,Tennessee,128.0
+2005,Tennessee,130.0
+2005,Tennessee,130.0
+2005,Tennessee,124.0
+2006,Tennessee,125.0
+2006,Tennessee,120.0
+2006,Tennessee,125.0
+2006,Tennessee,125.0
+2006,Tennessee,120.0
+2007,Tennessee,106.0
+2007,Tennessee,95.0
+2007,Tennessee,108.0
+2007,Tennessee,106.0
+2007,Tennessee,100.0
+2008,Tennessee,118.0
+2008,Tennessee,118.0
+2008,Tennessee,115.0
+2008,Tennessee,111.0
+2008,Tennessee,115.0
+2009,Tennessee,148.0
+2009,Tennessee,135.0
+2009,Tennessee,139.0
+2009,Tennessee,136.0
+2009,Tennessee,135.0
+2010,Tennessee,117.0
+2010,Tennessee,125.0
+2010,Tennessee,115.0
+2010,Tennessee,117.0
+2010,Tennessee,122.0
+2011,Tennessee,131.0
+2011,Tennessee,136.0
+2011,Tennessee,136.0
+2011,Tennessee,137.0
+2011,Tennessee,137.0
+2012,Tennessee,85.0
+2012,Tennessee,82.0
+2012,Tennessee,89.0
+2012,Tennessee,89.0
+2012,Tennessee,87.0
+2013,Tennessee,156.0
+2013,Tennessee,146.0
+2013,Tennessee,156.0
+2013,Tennessee,152.0
+2014,Tennessee,168.0
+2014,Tennessee,150.0
+2014,Tennessee,165.0
+2014,Tennessee,160.0
+2014,Tennessee,152.0
+2015,Tennessee,160.0
+2015,Tennessee,165.0
+2015,Tennessee,160.0
+2015,Tennessee,165.0
+2015,Tennessee,165.0
+2016,Tennessee,151.0
+2016,Tennessee,155.0
+2016,Tennessee,148.0
+2016,Tennessee,148.0
+2016,Tennessee,150.0
+2017,Tennessee,171.0
+2017,Tennessee,166.0
+2017,Tennessee,171.0
+2017,Tennessee,170.0
+2017,Tennessee,168.0
+2018,Tennessee,168.0
+2018,Tennessee,174.0
+2018,Tennessee,173.0
+2018,Tennessee,174.0
+2018,Tennessee,174.0
+2019,Tennessee,177.0
+2019,Tennessee,174.0
+2019,Tennessee,174.0
+2019,Tennessee,175.0
+2019,Tennessee,175.0
+2020,Tennessee,170.0
+2020,Tennessee,178.0
+2020,Tennessee,165.0
+2020,Tennessee,169.0
+2020,Tennessee,174.0
+2021,Tennessee,170.0
+2021,Tennessee,173.0
+2021,Tennessee,171.0
+2021,Tennessee,170.0
+2021,Tennessee,172.0
+2022,Tennessee,130.0
+2022,Tennessee,130.0
+2022,Tennessee,130.0
+2022,Tennessee,126.0
+2022,Tennessee,127.0
+2023,Tennessee,173.0
+2023,Tennessee,172.0
+2023,Tennessee,177.0
+2023,Tennessee,173.0
+2023,Tennessee,173.0
+2024,Tennessee,152.0
+2024,Tennessee,160.0
+2024,Tennessee,153.0
+2024,Tennessee,153.0
+2024,Tennessee,153.0
+2025,Tennessee,162.0
+2025,Tennessee,182.0
+2025,Tennessee,160.0
+2025,Tennessee,175.0
+2000,Texas,124.0
+2000,Texas,135.0
+2000,Texas,128.0
+2000,Texas,132.0
+2000,Texas,132.0
+2001,Texas,118.0
+2001,Texas,105.0
+2001,Texas,115.0
+2001,Texas,115.0
+2001,Texas,115.0
+2002,Texas,113.0
+2002,Texas,105.0
+2002,Texas,110.0
+2002,Texas,110.0
+2002,Texas,108.0
+2003,Texas,118.0
+2003,Texas,112.0
+2003,Texas,111.0
+2003,Texas,111.0
+2003,Texas,111.0
+2004,Texas,139.0
+2004,Texas,130.0
+2004,Texas,135.0
+2004,Texas,133.0
+2004,Texas,130.0
+2005,Texas,114.0
+2005,Texas,124.0
+2005,Texas,120.0
+2005,Texas,120.0
+2005,Texas,120.0
+2006,Texas,121.0
+2006,Texas,108.0
+2006,Texas,116.0
+2006,Texas,116.0
+2006,Texas,116.0
+2007,Texas,148.0
+2007,Texas,142.0
+2007,Texas,150.0
+2007,Texas,144.0
+2007,Texas,144.0
+2008,Texas,118.0
+2008,Texas,126.0
+2008,Texas,129.0
+2008,Texas,127.0
+2008,Texas,124.0
+2009,Texas,124.0
+2009,Texas,125.0
+2009,Texas,130.0
+2009,Texas,130.0
+2009,Texas,125.0
+2010,Texas,144.0
+2010,Texas,140.0
+2010,Texas,143.0
+2010,Texas,140.0
+2010,Texas,140.0
+2011,Texas,91.0
+2011,Texas,112.0
+2011,Texas,105.0
+2011,Texas,112.0
+2011,Texas,112.0
+2012,Texas,129.0
+2012,Texas,150.0
+2012,Texas,140.0
+2012,Texas,145.0
+2012,Texas,152.0
+2013,Texas,136.0
+2013,Texas,138.0
+2013,Texas,138.0
+2013,Texas,138.0
+2014,Texas,148.0
+2014,Texas,144.0
+2014,Texas,148.0
+2014,Texas,148.0
+2014,Texas,147.0
+2015,Texas,135.0
+2015,Texas,143.0
+2015,Texas,143.0
+2015,Texas,143.0
+2015,Texas,143.0
+2016,Texas,127.0
+2016,Texas,130.0
+2016,Texas,124.0
+2016,Texas,124.0
+2016,Texas,130.0
+2017,Texas,140.0
+2017,Texas,132.0
+2017,Texas,142.0
+2017,Texas,142.0
+2017,Texas,140.0
+2018,Texas,108.0
+2018,Texas,115.0
+2018,Texas,113.0
+2018,Texas,107.0
+2018,Texas,105.0
+2019,Texas,133.0
+2019,Texas,145.0
+2019,Texas,137.0
+2019,Texas,142.0
+2019,Texas,140.0
+2020,Texas,128.0
+2020,Texas,138.0
+2020,Texas,139.0
+2020,Texas,139.0
+2020,Texas,138.0
+2021,Texas,128.0
+2021,Texas,145.0
+2021,Texas,140.0
+2021,Texas,140.0
+2021,Texas,140.0
+2022,Texas,95.0
+2022,Texas,120.0
+2022,Texas,94.0
+2022,Texas,100.0
+2022,Texas,104.0
+2023,Texas,122.0
+2023,Texas,133.0
+2023,Texas,130.0
+2023,Texas,130.0
+2023,Texas,132.0
+2024,Texas,112.0
+2024,Texas,117.0
+2024,Texas,112.0
+2024,Texas,121.0
+2024,Texas,121.0
+2025,Texas,135.0
+2025,Texas,120.0
+2025,Texas,129.0
+2025,Texas,122.0
+2000,Utah,144.0
+2001,Utah,142.0
+2002,Utah,142.0
+2003,Utah,155.0
+2004,Utah,155.0
+2005,Utah,163.0
+2006,Utah,157.0
+2007,Utah,150.0
+2008,Utah,157.0
+2009,Utah,150.0
+2010,Utah,178.0
+2011,Utah,164.0
+2012,Utah,167.0
+2013,Utah,170.0
+2014,Utah,160.0
+2015,Utah,173.0
+2016,Utah,175.0
+2017,Utah,176.0
+2018,Utah,182.0
+2019,Utah,143.0
+2020,Utah,149.0
+2021,Utah,179.0
+2022,Utah,165.0
+2023,Utah,185.0
+2024,Utah,167.0
+2025,Utah,172.0
+2000,Virginia,146.0
+2000,Virginia,130.0
+2000,Virginia,140.0
+2000,Virginia,140.0
+2000,Virginia,135.0
+2001,Virginia,123.0
+2001,Virginia,108.0
+2001,Virginia,118.0
+2001,Virginia,121.0
+2001,Virginia,114.0
+2002,Virginia,68.0
+2002,Virginia,89.0
+2002,Virginia,68.0
+2002,Virginia,73.0
+2002,Virginia,73.0
+2003,Virginia,115.0
+2003,Virginia,125.0
+2003,Virginia,125.0
+2003,Virginia,130.0
+2003,Virginia,130.0
+2004,Virginia,145.0
+2004,Virginia,137.0
+2004,Virginia,147.0
+2004,Virginia,145.0
+2004,Virginia,143.0
+2005,Virginia,118.0
+2005,Virginia,122.0
+2005,Virginia,124.0
+2005,Virginia,124.0
+2005,Virginia,124.0
+2006,Virginia,120.0
+2006,Virginia,130.0
+2006,Virginia,123.0
+2006,Virginia,125.0
+2006,Virginia,125.0
+2007,Virginia,86.0
+2007,Virginia,80.0
+2007,Virginia,85.0
+2007,Virginia,80.0
+2007,Virginia,80.0
+2008,Virginia,108.0
+2008,Virginia,104.0
+2008,Virginia,101.0
+2008,Virginia,99.0
+2008,Virginia,104.0
+2009,Virginia,131.0
+2009,Virginia,120.0
+2009,Virginia,130.0
+2009,Virginia,128.0
+2009,Virginia,125.0
+2010,Virginia,67.0
+2010,Virginia,65.0
+2010,Virginia,60.0
+2010,Virginia,56.0
+2010,Virginia,65.0
+2011,Virginia,118.0
+2011,Virginia,116.0
+2011,Virginia,119.0
+2011,Virginia,119.0
+2011,Virginia,124.0
+2012,Virginia,103.0
+2012,Virginia,91.0
+2012,Virginia,95.0
+2012,Virginia,95.0
+2012,Virginia,95.0
+2013,Virginia,154.0
+2013,Virginia,145.0
+2013,Virginia,150.0
+2013,Virginia,145.0
+2014,Virginia,145.0
+2014,Virginia,140.0
+2014,Virginia,142.0
+2014,Virginia,142.0
+2014,Virginia,143.0
+2015,Virginia,161.0
+2015,Virginia,157.0
+2015,Virginia,160.0
+2015,Virginia,162.0
+2015,Virginia,157.0
+2016,Virginia,148.0
+2016,Virginia,151.0
+2016,Virginia,153.0
+2016,Virginia,158.0
+2016,Virginia,157.0
+2017,Virginia,140.0
+2017,Virginia,140.0
+2017,Virginia,154.0
+2017,Virginia,152.0
+2017,Virginia,140.0
+2018,Virginia,146.0
+2018,Virginia,148.0
+2018,Virginia,148.0
+2018,Virginia,148.0
+2018,Virginia,148.0
+2019,Virginia,144.0
+2019,Virginia,147.0
+2019,Virginia,140.0
+2019,Virginia,148.0
+2019,Virginia,149.0
+2020,Virginia,122.0
+2020,Virginia,132.0
+2020,Virginia,131.0
+2020,Virginia,136.0
+2020,Virginia,132.0
+2021,Virginia,160.0
+2021,Virginia,150.0
+2021,Virginia,155.0
+2021,Virginia,155.0
+2021,Virginia,149.0
+2022,Virginia,167.0
+2022,Virginia,160.0
+2022,Virginia,164.0
+2022,Virginia,161.0
+2022,Virginia,162.0
+2023,Virginia,157.0
+2023,Virginia,156.0
+2023,Virginia,154.0
+2023,Virginia,152.0
+2023,Virginia,150.0
+2024,Virginia,114.0
+2024,Virginia,100.0
+2024,Virginia,95.0
+2024,Virginia,103.0
+2024,Virginia,100.0
+2025,Virginia,168.0
+2025,Virginia,173.0
+2025,Virginia,175.0
+2025,Virginia,173.0
+2000,Washington,185.0
+2000,Washington,190.0
+2000,Washington,185.0
+2000,Washington,185.0
+2000,Washington,185.0
+2001,Washington,190.0
+2001,Washington,175.0
+2001,Washington,175.0
+2001,Washington,175.0
+2001,Washington,175.0
+2002,Washington,190.0
+2002,Washington,190.0
+2002,Washington,190.0
+2002,Washington,190.0
+2002,Washington,190.0
+2003,Washington,195.0
+2003,Washington,195.0
+2003,Washington,195.0
+2003,Washington,195.0
+2003,Washington,195.0
+2004,Washington,200.0
+2004,Washington,195.0
+2004,Washington,200.0
+2004,Washington,200.0
+2004,Washington,195.0
+2005,Washington,205.0
+2005,Washington,190.0
+2005,Washington,205.0
+2005,Washington,200.0
+2005,Washington,195.0
+2006,Washington,210.0
+2006,Washington,210.0
+2006,Washington,215.0
+2006,Washington,210.0
+2006,Washington,210.0
+2007,Washington,210.0
+2007,Washington,210.0
+2007,Washington,210.0
+2007,Washington,210.0
+2007,Washington,210.0
+2008,Washington,205.0
+2008,Washington,210.0
+2008,Washington,210.0
+2008,Washington,210.0
+2008,Washington,210.0
+2009,Washington,215.0
+2009,Washington,200.0
+2009,Washington,210.0
+2009,Washington,205.0
+2009,Washington,205.0
+2010,Washington,205.0
+2010,Washington,220.0
+2010,Washington,200.0
+2010,Washington,205.0
+2010,Washington,210.0
+2011,Washington,225.0
+2011,Washington,210.0
+2011,Washington,210.0
+2011,Washington,210.0
+2011,Washington,215.0
+2012,Washington,215.0
+2012,Washington,225.0
+2012,Washington,215.0
+2012,Washington,210.0
+2012,Washington,215.0
+2013,Washington,215.0
+2013,Washington,215.0
+2013,Washington,210.0
+2013,Washington,215.0
+2014,Washington,215.0
+2014,Washington,210.0
+2014,Washington,215.0
+2014,Washington,215.0
+2014,Washington,210.0
+2015,Washington,215.0
+2015,Washington,220.0
+2015,Washington,220.0
+2015,Washington,220.0
+2015,Washington,220.0
+2016,Washington,235.0
+2016,Washington,225.0
+2016,Washington,235.0
+2016,Washington,230.0
+2016,Washington,225.0
+2017,Washington,225.0
+2017,Washington,220.0
+2017,Washington,225.0
+2017,Washington,230.0
+2017,Washington,230.0
+2018,Washington,220.0
+2018,Washington,210.0
+2018,Washington,225.0
+2018,Washington,230.0
+2018,Washington,225.0
+2019,Washington,237.0
+2019,Washington,210.0
+2019,Washington,210.0
+2019,Washington,210.0
+2019,Washington,200.0
+2020,Washington,228.0
+2020,Washington,240.0
+2020,Washington,240.0
+2020,Washington,240.0
+2020,Washington,240.0
+2021,Washington,248.0
+2021,Washington,225.0
+2021,Washington,225.0
+2021,Washington,225.0
+2021,Washington,215.0
+2022,Washington,220.0
+2022,Washington,255.0
+2022,Washington,250.0
+2022,Washington,240.0
+2022,Washington,225.0
+2023,Washington,240.0
+2023,Washington,210.0
+2023,Washington,235.0
+2023,Washington,230.0
+2023,Washington,220.0
+2024,Washington,235.0
+2024,Washington,250.0
+2024,Washington,235.0
+2024,Washington,235.0
+2024,Washington,240.0
+2025,Washington,251.0
+2025,Washington,235.0
+2025,Washington,231.0
+2025,Washington,235.0
+2000,West Virginia,130.0
+2001,West Virginia,120.0
+2002,West Virginia,105.0
+2003,West Virginia,115.0
+2004,West Virginia,131.0
+2005,West Virginia,109.0
+2006,West Virginia,120.0
+2007,West Virginia,111.0
+2008,West Virginia,130.0
+2009,West Virginia,126.0
+2010,West Virginia,90.0
+2011,West Virginia,114.0
+2012,West Virginia,128.0
+2013,West Virginia,147.0
+2014,West Virginia,149.0
+2015,West Virginia,148.0
+2016,West Virginia,145.0
+2017,West Virginia,152.0
+2018,West Virginia,152.0
+2019,West Virginia,165.0
+2020,West Virginia,144.0
+2021,West Virginia,144.0
+2022,West Virginia,168.0
+2023,West Virginia,145.0
+2024,West Virginia,110.0
+2025,West Virginia,153.0
+2000,Wisconsin,132.0
+2000,Wisconsin,137.0
+2000,Wisconsin,132.0
+2000,Wisconsin,136.0
+2000,Wisconsin,140.0
+2001,Wisconsin,127.0
+2001,Wisconsin,122.0
+2001,Wisconsin,131.0
+2001,Wisconsin,128.0
+2001,Wisconsin,122.0
+2002,Wisconsin,135.0
+2002,Wisconsin,129.0
+2002,Wisconsin,130.0
+2002,Wisconsin,130.0
+2002,Wisconsin,130.0
+2003,Wisconsin,129.0
+2003,Wisconsin,138.0
+2003,Wisconsin,132.0
+2003,Wisconsin,134.0
+2003,Wisconsin,131.0
+2004,Wisconsin,136.0
+2004,Wisconsin,130.0
+2004,Wisconsin,136.0
+2004,Wisconsin,136.0
+2004,Wisconsin,127.0
+2005,Wisconsin,148.0
+2005,Wisconsin,130.0
+2005,Wisconsin,150.0
+2005,Wisconsin,138.0
+2005,Wisconsin,136.0
+2006,Wisconsin,143.0
+2006,Wisconsin,149.0
+2006,Wisconsin,151.0
+2006,Wisconsin,151.0
+2006,Wisconsin,151.0
+2007,Wisconsin,135.0
+2007,Wisconsin,145.0
+2007,Wisconsin,140.0
+2007,Wisconsin,145.0
+2007,Wisconsin,148.0
+2008,Wisconsin,137.0
+2008,Wisconsin,141.0
+2008,Wisconsin,137.0
+2008,Wisconsin,139.0
+2008,Wisconsin,137.0
+2009,Wisconsin,153.0
+2009,Wisconsin,135.0
+2009,Wisconsin,146.0
+2009,Wisconsin,144.0
+2009,Wisconsin,137.0
+2010,Wisconsin,162.0
+2010,Wisconsin,159.0
+2010,Wisconsin,162.0
+2010,Wisconsin,162.0
+2010,Wisconsin,159.0
+2011,Wisconsin,155.0
+2011,Wisconsin,159.0
+2011,Wisconsin,160.0
+2011,Wisconsin,160.0
+2011,Wisconsin,157.0
+2012,Wisconsin,120.0
+2012,Wisconsin,132.0
+2012,Wisconsin,125.0
+2012,Wisconsin,127.0
+2012,Wisconsin,130.0
+2013,Wisconsin,145.0
+2013,Wisconsin,144.0
+2013,Wisconsin,145.0
+2013,Wisconsin,143.0
+2014,Wisconsin,156.0
+2014,Wisconsin,156.0
+2014,Wisconsin,162.0
+2014,Wisconsin,162.0
+2014,Wisconsin,162.0
+2015,Wisconsin,164.0
+2015,Wisconsin,163.0
+2015,Wisconsin,165.0
+2015,Wisconsin,164.0
+2015,Wisconsin,162.0
+2016,Wisconsin,178.0
+2016,Wisconsin,173.0
+2016,Wisconsin,180.0
+2016,Wisconsin,177.0
+2016,Wisconsin,175.0
+2017,Wisconsin,174.0
+2017,Wisconsin,162.0
+2017,Wisconsin,168.0
+2017,Wisconsin,164.0
+2017,Wisconsin,162.0
+2018,Wisconsin,172.0
+2018,Wisconsin,177.0
+2018,Wisconsin,177.0
+2018,Wisconsin,179.0
+2018,Wisconsin,179.0
+2019,Wisconsin,166.0
+2019,Wisconsin,165.0
+2019,Wisconsin,163.0
+2019,Wisconsin,163.0
+2019,Wisconsin,163.0
+2020,Wisconsin,173.0
+2020,Wisconsin,181.0
+2020,Wisconsin,184.0
+2020,Wisconsin,186.0
+2020,Wisconsin,182.0
+2021,Wisconsin,180.0
+2021,Wisconsin,167.0
+2021,Wisconsin,172.0
+2021,Wisconsin,172.0
+2021,Wisconsin,172.0
+2022,Wisconsin,180.0
+2022,Wisconsin,185.0
+2022,Wisconsin,182.0
+2022,Wisconsin,182.0
+2022,Wisconsin,183.0
+2023,Wisconsin,176.0
+2023,Wisconsin,166.0
+2023,Wisconsin,171.0
+2023,Wisconsin,165.0
+2023,Wisconsin,165.0
+2024,Wisconsin,174.0
+2024,Wisconsin,183.0
+2024,Wisconsin,181.0
+2024,Wisconsin,182.0
+2024,Wisconsin,182.0
+2025,Wisconsin,188.0
+2025,Wisconsin,185.0
+2025,Wisconsin,183.0
+2025,Wisconsin,184.0
+2000,Wyoming,132.0
+2001,Wyoming,125.0
+2002,Wyoming,119.0
+2003,Wyoming,129.0
+2004,Wyoming,131.0
+2005,Wyoming,140.0
+2006,Wyoming,129.0
+2007,Wyoming,129.0
+2008,Wyoming,134.0
+2009,Wyoming,140.0
+2010,Wyoming,123.0
+2011,Wyoming,130.0
+2012,Wyoming,142.0
+2013,Wyoming,127.0
+2014,Wyoming,138.0
+2015,Wyoming,159.0
+2016,Wyoming,147.0
+2017,Wyoming,155.0
+2018,Wyoming,164.0
+2019,Wyoming,123.0
+2020,Wyoming,122.0
+2021,Wyoming,132.0
+2022,Wyoming,153.0
+2023,Wyoming,153.0
+2024,Wyoming,155.0
+2025,Wyoming,145.0
