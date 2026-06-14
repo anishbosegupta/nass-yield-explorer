@@ -1,0 +1,4 @@
+gradio
+pandas
+plotly
+google-generativeai
