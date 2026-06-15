@@ -14,12 +14,16 @@ gemini = genai.GenerativeModel("gemini-2.5-pro")
 # ── LOAD DATA ──────────────────────────────────────────────────────────────────
 df = pd.read_csv("nass_corn_clean.csv")
 df = df[df["state"] != "Other States"]
+df = df.groupby(["state", "year"])["yield_bu_acre"].max().reset_index()
 ALL_STATES = sorted(df["state"].unique().tolist())
 
 # ── CHART FUNCTIONS ────────────────────────────────────────────────────────────
 
 def make_trend_chart(state):
-    """Generate a scatter plot with OLS trend line for a given state."""
+    """
+    Generate a scatter plot with OLS trend line for a given state.
+     - X-axis: Year
+     - Y-axis: Corn yield (bushels per acre)"""
     filtered = df[df["state"] == state].sort_values("year")
     fig = px.scatter(
         filtered, x="year", y="yield_bu_acre",
@@ -39,23 +43,16 @@ def make_trend_chart(state):
 def make_choropleth(year):
     """Generate a national choropleth map for a given year."""
     latest = df[df["year"] == int(year)].copy()
+    # dictionary mapping full state names to two-letter abbreviations
     state_abbrev = {
-        "Alabama": "AL", "Arizona": "AZ", "Arkansas": "AR",
-        "California": "CA", "Colorado": "CO", "Connecticut": "CT",
-        "Delaware": "DE", "Florida": "FL", "Georgia": "GA",
-        "Idaho": "ID", "Illinois": "IL", "Indiana": "IN",
-        "Iowa": "IA", "Kansas": "KS", "Kentucky": "KY",
-        "Louisiana": "LA", "Maine": "ME", "Maryland": "MD",
-        "Massachusetts": "MA", "Michigan": "MI", "Minnesota": "MN",
-        "Mississippi": "MS", "Missouri": "MO", "Montana": "MT",
-        "Nebraska": "NE", "Nevada": "NV", "New Hampshire": "NH",
-        "New Jersey": "NJ", "New Mexico": "NM", "New York": "NY",
-        "North Carolina": "NC", "North Dakota": "ND", "Ohio": "OH",
-        "Oklahoma": "OK", "Oregon": "OR", "Pennsylvania": "PA",
-        "South Carolina": "SC", "South Dakota": "SD", "Tennessee": "TN",
-        "Texas": "TX", "Utah": "UT", "Vermont": "VT", "Virginia": "VA",
-        "Washington": "WA", "West Virginia": "WV", "Wisconsin": "WI",
-        "Wyoming": "WY"
+        'Alabama': 'AL', 'Alaska': 'AK', 'Arizona': 'AZ', 'Arkansas': 'AR', 'California': 'CA',
+        'Colorado': 'CO', 'Connecticut': 'CT', 'Delaware': 'DE', 'Florida': 'FL', 'Georgia': 'GA',
+        'Hawaii': 'HI', 'Idaho': 'ID', 'Illinois': 'IL', 'Indiana': 'IN', 'Iowa': 'IA', 'Kansas': 'KS', 'Kentucky': 'KY',
+        'Louisiana': 'LA', 'Maine': 'ME', 'Maryland': 'MD', 'Massachusetts': 'MA', 'Michigan': 'MI', 'Minnesota': 'MN', 'Mississippi': 'MS',
+        'Missouri': 'MO', 'Montana': 'MT', 'Nebraska': 'NE', 'Nevada': 'NV', 'New Hampshire': 'NH', 'New Jersey': 'NJ', 'New Mexico': 'NM',
+        'New York': 'NY', 'North Carolina': 'NC', 'North Dakota': 'ND', 'Ohio': 'OH', 'Oklahoma': 'OK', 'Oregon': 'OR', 'Pennsylvania': 'PA',
+        'Rhode Island': 'RI', 'South Carolina': 'SC', 'South Dakota': 'SD', 'Tennessee': 'TN', 'Texas': 'TX', 'Utah': 'UT', 'Vermont': 'VT',
+        'Virginia': 'VA', 'Washington': 'WA', 'West Virginia': 'WV', 'Wisconsin': 'WI', 'Wyoming': 'WY'
     }
     latest["abbrev"] = latest["state"].map(state_abbrev)
     latest = latest.dropna(subset=["abbrev"])
@@ -121,13 +118,22 @@ def estimate_revenue(state, acreage, price_per_bushel):
     yield_val = latest_yield.values[0]
     total_bushels = yield_val * acreage
     gross_revenue = total_bushels * price_per_bushel
+    
+    state_avg = df[df["state"] == state]["yield_bu_acre"].mean()
 
+    if yield_val >= state_avg * 1.1: # 10% above average
+        risk = "🟢 Low Risk — Above average yield year"
+    elif yield_val >= state_avg * 0.9: # within 10% of average
+        risk = "🟡 Medium Risk — Near average yield year" 
+    else: # more than 10% below average
+        risk = "🔴 High Risk — Below average yield year"
     return (
-        f"### Revenue Estimate ({int(latest_year)} yield)\n"
-        f"- **Yield used:** {yield_val:.0f} bu/acre\n"
-        f"- **Total bushels:** {total_bushels:,.0f}\n"
-        f"- **Estimated gross revenue:** ${gross_revenue:,.0f}"
-    )
+    f"### Revenue Estimate (based on {int(latest_year)} yield)\n"
+    f"- **Yield used:** {yield_val:.0f} bu/acre *(most recent year)*\n"
+    f"- **Total bushels:** {total_bushels:,.0f}\n"
+    f"- **Estimated gross revenue:** ${gross_revenue:,.0f}\n"
+    f"- **Risk:** {risk}"
+)
 
 # ── GRADIO UI ──────────────────────────────────────────────────────────────────
 
@@ -206,5 +212,8 @@ with gr.Blocks(css=CSS, theme=gr.themes.Soft()) as demo:
         inputs=[state_dd, year_slider],
         outputs=[trend_plot, choro_plot, summary_box]
     )
+
+    gr.Markdown("---")
+    gr.Markdown("*Data source: USDA National Agricultural Statistics Service (NASS) | Built with Gradio + Gemini 2.5 Pro*")
 
 demo.launch()
