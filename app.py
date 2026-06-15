@@ -121,11 +121,11 @@ def estimate_revenue(state, acreage, price_per_bushel):
     
     state_avg = df[df["state"] == state]["yield_bu_acre"].mean()
 
-    if yield_val >= state_avg * 1.1:
+    if yield_val >= state_avg * 1.1: # 10% above average
         risk = "🟢 Low Risk — Above average yield year"
-    elif yield_val >= state_avg * 0.9:
-        risk = "🟡 Medium Risk — Near average yield year"
-    else:
+    elif yield_val >= state_avg * 0.9: # within 10% of average
+        risk = "🟡 Medium Risk — Near average yield year" 
+    else: # more than 10% below average
         risk = "🔴 High Risk — Below average yield year"
     return (
     f"### Revenue Estimate (based on {int(latest_year)} yield)\n"
