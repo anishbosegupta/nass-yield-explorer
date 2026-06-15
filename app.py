@@ -14,6 +14,7 @@ gemini = genai.GenerativeModel("gemini-2.5-pro")
 # ── LOAD DATA ──────────────────────────────────────────────────────────────────
 df = pd.read_csv("nass_corn_clean.csv")
 df = df[df["state"] != "Other States"]
+df = df.groupby(["state", "year"])["yield_bu_acre"].max().reset_index()
 ALL_STATES = sorted(df["state"].unique().tolist())
 
 # ── CHART FUNCTIONS ────────────────────────────────────────────────────────────
@@ -118,20 +119,21 @@ def estimate_revenue(state, acreage, price_per_bushel):
     total_bushels = yield_val * acreage
     gross_revenue = total_bushels * price_per_bushel
     
-    if yield_val > 180:
-        risk = "🟢 Low Risk — High yield state"
-    elif yield_val > 150:
-        risk = "🟡 Medium Risk — Average yield state"
-    else:
-        risk = "🔴 High Risk — Below average yield state"
+    state_avg = df[df["state"] == state]["yield_bu_acre"].mean()
 
+    if yield_val >= state_avg * 1.1:
+        risk = "🟢 Low Risk — Above average yield year"
+    elif yield_val >= state_avg * 0.9:
+        risk = "🟡 Medium Risk — Near average yield year"
+    else:
+        risk = "🔴 High Risk — Below average yield year"
     return (
-        f"### Revenue Estimate ({int(latest_year)} yield)\n"
-        f"- **Yield used:** {yield_val:.0f} bu/acre\n"
-        f"- **Total bushels:** {total_bushels:,.0f}\n"
-        f"- **Estimated gross revenue:** ${gross_revenue:,.0f}"
-        f"- **Risk:** {risk}"
-    )
+    f"### Revenue Estimate (based on {int(latest_year)} yield)\n"
+    f"- **Yield used:** {yield_val:.0f} bu/acre *(most recent year)*\n"
+    f"- **Total bushels:** {total_bushels:,.0f}\n"
+    f"- **Estimated gross revenue:** ${gross_revenue:,.0f}\n"
+    f"- **Risk:** {risk}"
+)
 
 # ── GRADIO UI ──────────────────────────────────────────────────────────────────
 
